@@ -1,0 +1,1161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rare verities. The cabinet of Venus unlocked, and her secrets laid open. : Being a translation of part of Sinibaldus, his Geneanthropeia, and a collection of some things out of other Latin authors, never before in English.</title>
+            <title>Geneanthropeiae. Selections. English</title>
+            <author>Sinibaldi, Giovanni Benedetto, 1594-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93284</idno>
+            <idno type="STC">Wing S3863</idno>
+            <idno type="STC">ESTC R184190</idno>
+            <idno type="EEBO-CITATION">45097947</idno>
+            <idno type="OCLC">ocm 45097947</idno>
+            <idno type="VID">171523</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171523)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rare verities. The cabinet of Venus unlocked, and her secrets laid open. : Being a translation of part of Sinibaldus, his Geneanthropeia, and a collection of some things out of other Latin authors, never before in English.</title>
+                  <title>Geneanthropeiae. Selections. English</title>
+                  <author>Sinibaldi, Giovanni Benedetto, 1594-1658.</author>
+               </titleStmt>
+               <extent>[30], 72, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Briggs, at the Dolphin in St Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Human reproduction --  Early work to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171523:1" rendition="simple:additions"/>
+            <pb facs="tcp:171523:1"/>
+            <pb facs="tcp:171523:2"/>
+            <pb facs="tcp:171523:2" rendition="simple:additions"/>
+            <p>RARE VERITIES.</p>
+            <p>THE CABINET OF <hi>VEN<g ref="char:V">Ʋ</g>S</hi> UNLOCKED, AND Her Secrets laid open.</p>
+            <p>Being a Tranſlation of part of <hi>Sinibaldus,</hi> his Geneanthro<g ref="char:EOLhyphen"/>peia, and a collection of ſome things out of other Latin Authors, never before in Engliſh.</p>
+            <q xml:lang="lat">Laſciva eſt nobis pagina, vita proba.</q>
+            <q xml:lang="lat">
+               <bibl>Horat.</bibl> Omne tulit punctum qui miſcuit utile dulci.</q>
+            <q xml:lang="lat">
+               <bibl>Mart.</bibl>
+               <l>Lex haec carminibus data eſt jocoſis,</l>
+               <l>Non poſſint, niſi pruriant, juvare.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>P. Briggs,</hi> at the Dolphin in St <hi>Pauls</hi> Church-yard, 1658.</p>
+         </div>
+         <div type="to_the_amorous_reader">
+            <pb facs="tcp:171523:3"/>
+            <pb facs="tcp:171523:3"/>
+            <head>To the Amorous READERS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O you (the de<g ref="char:EOLhyphen"/>vout Adorers of <hi>Venus</hi>) am I ſolely wil<g ref="char:EOLhyphen"/>ling to make my dedica<g ref="char:EOLhyphen"/>tion; and blame me not if I am ſo provident as to ſhelter my ſelf under the
+<pb facs="tcp:171523:4"/>tutelage of the more nu<g ref="char:EOLhyphen"/>merous and ſtronger par<g ref="char:EOLhyphen"/>ty. Beſides, ſince your whole ſociety is all com<g ref="char:EOLhyphen"/>poſed of love, and reci<g ref="char:EOLhyphen"/>procall affection; I have great grounds to hope you will not now change your natures, in refuſing to patronize and cheriſh thoſe things, (that though they are now other mens) yet may be juſtly term<g ref="char:EOLhyphen"/>ed the genuine off-ſprings of your own thoughts. Wherefore that you may the ſooner trie whether they are ſo or no, I ſhall
+<pb facs="tcp:171523:4"/>not at this preſent imitate ſome long-winded Pulpit-thumpers, that at every accent blow their Audi<g ref="char:EOLhyphen"/>tors out of doors by their tedious preambulations, but ſhall be quick to open the doors of that cloſet wherein lies the treaſure of that profit and plea<g ref="char:EOLhyphen"/>ſure my looſer minutes intend to preſent to your joviall peruſalls. To you (I ſay) that are the tri<g ref="char:EOLhyphen"/>ed Champions of <hi>Venus,</hi> do theſe occult myſteries belong ſolely, and are offered by me; (For I
+<pb facs="tcp:171523:5"/>know the very Title of this Pamphlet is enough to ſcare young modeſty from venturing to ap<g ref="char:EOLhyphen"/>proch.) Hence boldly fetch new fewell to aug<g ref="char:EOLhyphen"/>ment your pleaſing fires: and though it be a little ſtore-houſe, yet deſpiſe it not; for the more vigo<g ref="char:EOLhyphen"/>rous a thing is, the leſſe ſpace it animates. But you will ſay the leſſer it is, the fewer faults you expect to find in it. No doubt ſome there are, which have either eſca<g ref="char:EOLhyphen"/>ped the Printer, or elſe
+<pb facs="tcp:171523:5"/>were occaſioned by my negligence; but my re<g ref="char:EOLhyphen"/>fuge is the hope of your Clemency; and if you will not afford me that, then let the pardon of my errours be as a gratuity for that benefit (if you find any) that you ſhall reap in reading this colle<g ref="char:EOLhyphen"/>cted Tranſlation. It may be ſome ſeemingly mo<g ref="char:EOLhyphen"/>deſt, will hold me for a Capitall offender for Tranſcribing thoſe things into Engliſh, which ſhould have remained ſtill in the obſcurity of an unknown
+<pb facs="tcp:171523:6"/>To which I anſwer; that I hold it a very unjuſt thing that ſcholars ſhould monopolize the trade of Drollery to themſelves, and that they ſhould be ſo uncharitable as not to let their Countrey-men partake of thoſe ſublime ſecrets they underſtand, unleſſe they puzzle their braines with the Latine and Greek. I think ſuch men, had they their ends, would make ſuch ſots of Engliſhmen, as that they ſhould either forget, or
+<pb facs="tcp:171523:6"/>never know the manner of generation; and that when they are married, they muſt be forced to come to them to be taught the way of copu<g ref="char:EOLhyphen"/>lation. To prevent which, I have made <hi>Sinibaldus</hi> and ſome other <hi>Pornodi<g ref="char:EOLhyphen"/>daſcalians,</hi> to ſpeak En<g ref="char:EOLhyphen"/>gliſh, and that in plain termes; which (I hope) ſhall rather excuſe me then accuſe, if by this means I ſhall lay open the myſteries of genera<g ref="char:EOLhyphen"/>tion, and its concomitants, more facile and eaſie.
+<pb facs="tcp:171523:7"/>Moreover, if I write any thing that is obſcene, it is becauſe my Authors wrote ſo, from whom I Collected this miſcel<g ref="char:EOLhyphen"/>lany.</p>
+            <p>Again, I muſt ingenu<g ref="char:EOLhyphen"/>ouſly confeſſe, that no tongue ſounds ſweeter to me then the Engliſh; I could wiſh I were the in<g ref="char:EOLhyphen"/>ſtrument of making it ſound ſo to others. How<g ref="char:EOLhyphen"/>ever, things of this nature, let them be in ever ſo plain and rude a dreſſe, will be acceptable to ſome, nay moſt. Methinks I al<g ref="char:EOLhyphen"/>ready
+<pb facs="tcp:171523:7"/>fore-ſee, that the longing Chamber-maide will read this little book with a great deal more de<g ref="char:EOLhyphen"/>votion then ſhe would <hi>Dod</hi> or <hi>Sibs.</hi> Nay I may ſhrewd<g ref="char:EOLhyphen"/>ly ſuſpect, that the Learn<g ref="char:EOLhyphen"/>ed (though not this, yet its Original) will be more deſirous to turn over in private, then ſome vo<g ref="char:EOLhyphen"/>luminous Rabbin. Suffer then (I beſeech) <hi>Sini<g ref="char:EOLhyphen"/>baldus</hi> to breath his thoughts in your cham<g ref="char:EOLhyphen"/>bers, and you ſhall find by a kind of ſympathie, their ſweet harmony in your
+<pb facs="tcp:171523:8"/>boſomes: as two Lutes ſet uniſon, both of them move, if but one be ſtruck. If he ſpeaks not Engliſh ſo pleaſingly as he doth Latine, blame the Tranſlator, not the Au<g ref="char:EOLhyphen"/>thor; and as little too as poſſible, when you ſhall conſider the diſtractions of the times. For that ſoul muſt be filled with plea<g ref="char:EOLhyphen"/>ſant and delighting Idea's, that would communicate ſuch things to others: Wit is as ſoon eclipſed by tur<g ref="char:EOLhyphen"/>bulent thoughts as beauty is by the indiſpoſition of
+<pb facs="tcp:171523:8"/>the body. If then my rhymes diſpleaſe, take notice that my Genius pleads its excuſe, as never deſerving much to kiſſe <hi>Pegaſus</hi> his— Its equal<g ref="char:EOLhyphen"/>ly a matter difficult, to be a Poet in deſpight of For<g ref="char:EOLhyphen"/>tune, as of Nature. Read then theſe Collections (that are <hi>novè dicta, etſi non nova</hi>) with as much pleaſure and profit, as I ſhall have blame; and it is all I expect.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Aug.</hi> 24. 1657.</date>
+               </dateline>
+               <signed>Erotodidaſcalus.</signed>
+            </closer>
+         </div>
+         <div type="epistle_to_friend">
+            <pb facs="tcp:171523:9"/>
+            <pb facs="tcp:171523:9"/>
+            <head>An Epiſtle to his Friend concerning the publiſh<g ref="char:EOLhyphen"/>ing his Book.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Send you this Pamphlet, deſiring your peruſal of it, but by way of co<g ref="char:EOLhyphen"/>rollary, I beſeech you not to think it was any part of my ſtudy, but compoſed for my own
+<pb facs="tcp:171523:10"/>and my friends recreation. You will at leaſt find this ſatisfacti<g ref="char:EOLhyphen"/>on by reading it, to know the difference of your practick and ſpeculative knowledge in this ſcience. Be not angry at my freedome with you, but either commend or pity me for the pains I have taken, to make you and others more intelligent in theſe occult myſteries. I am content to be the pick-lock of <hi>Venus</hi> her Cabinet, to let you with more eaſe enter and rifle and deſpoile her ineſtimable treaſure. Nay you may plainly perceive that I am willing to be any thing, that I may be ſome<g ref="char:EOLhyphen"/>thing either of pleaſure or pro<g ref="char:EOLhyphen"/>fit
+<pb facs="tcp:171523:10"/>to any of my friends. For my part I expect no leſs then to be whipt by every ſquint-eyed fellow, worſe then <hi>Dr Gill</hi> laſh'd his maids Bumbgillion, when
+<q>
+                  <l>He took up her ſmock,</l>
+                  <l>And then whip'd her nock.</l>
+               </q>
+            </p>
+            <p>I do not apprehend the leaſt fa<g ref="char:EOLhyphen"/>vour I can have of any, much leſs your approbation. But thus much I beg at your hands, a brief manifeſto or demonſtrati<g ref="char:EOLhyphen"/>on of your good will, to ſhelter me from ſome of thoſe jerks I foreſee will be laid on me. In ſo doing you will highly ob<g ref="char:EOLhyphen"/>lige
+<pb facs="tcp:171523:11"/>me, who is yours, and every ones elſe, as far as it conſiſts with his own profit, and their contentment.</p>
+            <closer>
+               <signed>Anonymus</signed>
+            </closer>
+         </div>
+         <div type="reply">
+            <pb facs="tcp:171523:11"/>
+            <head>His Friends Reply.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen firſt your <hi>Manuſcript</hi> found me, I was ſtrange<g ref="char:EOLhyphen"/>ly ſurprized, to ſee <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> her Cabinet unlock<g ref="char:EOLhyphen"/>ed, and her moſt myſterious receſ<g ref="char:EOLhyphen"/>ſes diſcovered. The ſtrict Italians wife that upon the abſence of her husband, is reported to have her ſecrets buckled up, may ſome<g ref="char:EOLhyphen"/>times make a ſubtile eſcape by the benefit of a falſe key or pick-lock.
+<pb facs="tcp:171523:12"/>But yours is a more univerſal deluſion, to proſtrate <hi>Venus</hi> to a whole Nation, and preſent <hi>Vulcan</hi> (who before was no monſtrous, but an ordinary cuckold) with a mo<g ref="char:EOLhyphen"/>nopoly of hornes. But becauſe you think your ſelf in danger of calum<g ref="char:EOLhyphen"/>ny, and requeſt ſomething antido<g ref="char:EOLhyphen"/>tal to its poiſoned weapons; I ſhall (rather then be deaf to importu<g ref="char:EOLhyphen"/>nity) ſingle out ſome objections, and afterwards ſalve them with the beſt balme I have, which is natural. Though I know they paſs not, nor cannot ſcape your piercing eye, yet they may keep me from the fore<g ref="char:EOLhyphen"/>lorne hope of the Preſſe. Several objections you will incounter with, from ſeveral ſorts of Readers. Though I think your guard is ſo ſure, as it will lie open to none, yet will they bandy, though they ſuffer diſhonourable repulſes. From the
+<pb facs="tcp:171523:12"/>learned pretenders, you will be ac<g ref="char:EOLhyphen"/>cuſed of no leſs then ſacriledge, for opening thoſe ſanctuaries of nature ſo long undiſcovered to profaner eyes. They will lay as great an im<g ref="char:EOLhyphen"/>putation on you, as the Romans of old did on <hi>Clodius,</hi> that in a counterfeited feminine habit, inſi<g ref="char:EOLhyphen"/>nuated himſelf into the preſence chamber at the ſecret ſacrifice of <hi>Bona Dea:</hi> whoſe infamy hath pro<g ref="char:EOLhyphen"/>verbially deſcended to poſterity. But you may juſtly anſwer, that this kind of Philoſophy is natural; and therefore not to be debarred from its native univerſality, by the ſhels of languages, and outward obſcurity of words. Beſides, you and the reſt of our Countrey-men may truly boaſt of preſidents in this nature, that of late years ennobled the treaſury of our language. Such as without raviſhing nature, have
+<pb facs="tcp:171523:13"/>made her fruitful. Again, <hi>Venus</hi> hateth ſecreſie, for ſhe is in her moſt noble and pleaſant dreſs, when undreſſ'd, and a pure white and melting Adamite. In her na<g ref="char:EOLhyphen"/>ked preſentation ſhe is beſt armed, and to indue her with any orna<g ref="char:EOLhyphen"/>ment, is but to veile her perfecti<g ref="char:EOLhyphen"/>ons. Every glance from her eye is an armed Phalanx, and her diſco<g ref="char:EOLhyphen"/>vered parts ſend ſtreams of rayes, which (uniting in the eye above all the rules of Opticks) inflame the immaterial ſoul. I cannot therefore but give due encomiums to him that ſhall ſuccesfully and plainly lay open and ſpring theſe new mines. <hi>Ariſtotles</hi> higheſt de<g ref="char:EOLhyphen"/>monſtrations never ſo augmented his monarchy, nor procured him ſo many ſchollars and followers, as the tranſlation of his <hi>Problems,</hi> which made every Lady become a Peri<g ref="char:EOLhyphen"/>patetick,
+<pb facs="tcp:171523:13"/>and ſworn Philoſopher. The next objection will be diame<g ref="char:EOLhyphen"/>trically oppoſed (I ſuppoſe) to the former, ſo that with all your ſedu<g ref="char:EOLhyphen"/>lity, you will hardly ſatisfie the diſ<g ref="char:EOLhyphen"/>cerning and ſcrupulous head. <hi>Albi an nigri ſint?</hi> will poſe my Opticks. They will not onely be irritated by your diſcovering too much, but alſo too little. That is, that you have omitted the obſervations of the admired <hi>Harvey:</hi> whoſe Rules do encounter deſperately with moſt of the fundamental axioms of his predeceſſors. And yet theſe ob<g ref="char:EOLhyphen"/>ſervations are ſo piercing, as that they ſeem Oracles pronounced <hi>à Tripode.</hi> You have omitted his opinion of ſecret magnetical con<g ref="char:EOLhyphen"/>tagion, ejaculated into the womb, without any corporal ſeminal effu<g ref="char:EOLhyphen"/>ſion perceptible. There will be expectations, that you have touch<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:171523:14"/>on his ingenuous notions or con<g ref="char:EOLhyphen"/>ceptions. Here will be an enquiry made for the noble juyce, from which mild nectar, rather then from the fierce channel of bloud, the matter of ſeed is conceived to have its derivation. Here is no mention made of the probable conjectures of the <hi>Faba Fallopiana,</hi> being as it were a casket to the ſeed for a determinate ſeaſon, and afterward returning this chief gem and extract into the womb, where by fomentation of heat it arrives at perfection.</p>
+            <q xml:lang="lat">Maxima de nihilo naſcitur hiſtoria.</q>
+            <p>Thus you ſee in this long obje<g ref="char:EOLhyphen"/>ction you are onely accuſed of a fault of omiſſion, for which not the tranſlation, but the original ſtands chiefly engaged. <hi>Sinibaldus</hi>
+               <pb facs="tcp:171523:14"/>was not acquainted with theſe men, as living not in their time: and therefore you could not have ſteered according to their ſuppoſi<g ref="char:EOLhyphen"/>tions, unleſſe you had hoiſed up ſails and truſted your own compaſs, and deſerted your Author, a learn<g ref="char:EOLhyphen"/>ed and skilful Pilot, or diſtorted him as Phyſicians do <hi>Galen.</hi>
+            </p>
+            <p>Beſides, the incomparable <hi>Har<g ref="char:EOLhyphen"/>vey</hi> his book is already <hi>civitate do<g ref="char:EOLhyphen"/>natus,</hi> by a noble and learned pen, and although he ſpeaks Engliſh, yet its not intelligible by the un<g ref="char:EOLhyphen"/>learned vulgarity, as being not verſed in Anatomical diſſections. So that it is evident that to tranſcribe theſe had been an uſeleſs plagiary. And thus far you have got your ſelf looſe and your book, as uncon<g ref="char:EOLhyphen"/>cern'd to the <hi>optimates literarii,</hi> but more juſtly appertaining to the <hi>minorum Gentium.</hi> I perceive the
+<pb facs="tcp:171523:15"/>intent of your wanton page is ra<g ref="char:EOLhyphen"/>ther to incite an itching or titillati<g ref="char:EOLhyphen"/>on whereby women may be diſ<g ref="char:EOLhyphen"/>poſed to conception, then to ſtir up the conception of learned mens brains. The Chamber-maid is like to receive great ſatisfaction in ma<g ref="char:EOLhyphen"/>king a ſcrutiny, whether ſhe en<g ref="char:EOLhyphen"/>joys the integrity of her Hymen, and ſo be reſolved, <hi>quid poterit ſal<g ref="char:EOLhyphen"/>va virginite rapi.</hi> She will roul over your pages to ſee whether ſhe hath not forfeited the notes of her vir<g ref="char:EOLhyphen"/>ginity, by petulancy, whileſt others (I mean the profoundly learned) make ſtrict inquiſition into abſtruſe Philoſophical verities. Here ſhall both ſexes view their ſeveral po<g ref="char:EOLhyphen"/>ſtures, how to fight in <hi>Venus</hi> her battalia, beyond all dull books of fencing and fighting. And now at laſt you are arrived at the amphi<g ref="char:EOLhyphen"/>bious ſort of Objectors, that <hi>Curios
+<pb facs="tcp:171523:15"/>ſimulant, &amp; vivunt Bacchanalia:</hi> ſuch as carry the <hi>Practice of Piety</hi> in their hands, this in their poc<g ref="char:EOLhyphen"/>ket, and yet make publick ex<g ref="char:EOLhyphen"/>clamations againſt it for ob<g ref="char:EOLhyphen"/>ſcene language, &amp;c.. while their fancies immerg'd in its luxurious imbracements commit adultery with their own Chimera's. Theſe will tell you it is the ſpawn of <hi>Ari<g ref="char:EOLhyphen"/>ſtotles Problems,</hi> and that the bro<g ref="char:EOLhyphen"/>therhood at <hi>Amſterdam</hi> publiſh no ſuch libels. But if from thoſe that are prejudiced with theſe deluſive apprehenſions, you could gain at<g ref="char:EOLhyphen"/>tention to reaſon, their confutation were to be effected with facility. For to call theſe worthy acts of na<g ref="char:EOLhyphen"/>ture, obſcenities, by an eaſie indu<g ref="char:EOLhyphen"/>ction, wil ſeem but a little removed from atheiſm, to him that believeth nature is the hand of God. There<g ref="char:EOLhyphen"/>fore Sir, I will adviſe you, no far<g ref="char:EOLhyphen"/>ther to ſtand endeavouring ſatisfa<g ref="char:EOLhyphen"/>ction
+<pb facs="tcp:171523:16"/>to every capricious humoriſt; onely I wiſh them, with the Poet <hi>Lucretius,</hi> that they do not (as he ſuſpected his endeared <hi>Memnius</hi>)
+<q>
+                  <lg xml:lang="lat">
+                     <l>Nec mea dona tibi ſtudio diſpôſta fideli,</l>
+                     <l>Intellecta prius quam ſint contem<g ref="char:EOLhyphen"/>pta relinquas.</l>
+                  </lg>
+                  <lg>
+                     <l>Nor let my gifts fram'd out of juſt reſpect,</l>
+                     <l>Un-underſtood, be anſwered with neglect.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>Rather for encouragement, I may add a juſt elogium to <hi>Sinibaldus,</hi> that for variety of learning, he hath exceeded all on this ſubject. And if any thing were culpable, it was his copiouſneſs, which you have artificially contracted. Thoſe ſpìrits and maſculine vigour, which
+<pb facs="tcp:171523:16"/>flouriſhed in his large volume to admiration, you have miraculouſly and in <hi>(invitâ arithmeticâ)</hi> by ſub<g ref="char:EOLhyphen"/>ſtraction multiplied, that thoſe that lay before dilated into great extenſion, and ready to evaporate, have in your book received their due fixation, and maturation. Now to deal ingeniouſly with you, what lapſes I find in your book, one I think is, that it is without any. <hi>Venus</hi> ſhould not be preſent<g ref="char:EOLhyphen"/>ed to open view without her <hi>moti cella,</hi> or ſome ſmall defect, but yours hath not ſo much as a black patch, or any diſcoverable inequa<g ref="char:EOLhyphen"/>lity. In the interim, what others diſcover, muſt go under the uſual apology of humanity and clemen<g ref="char:EOLhyphen"/>cy; there is not in any ſingular a prerogative of infallibility. That in moſt things there are both ſuper<g ref="char:EOLhyphen"/>fluous additions, and ſubſtantial
+<pb facs="tcp:171523:17"/>deficiencies, this paper of mine, (which haſte muſt excuſe) wil bear ſufficient demonſtration. And re<g ref="char:EOLhyphen"/>ally I think that deception and miſ<g ref="char:EOLhyphen"/>apprehenſion are become ſo uni<g ref="char:EOLhyphen"/>verſal and epidemical, that there is hardly a book but that may have for its prologue, a catalogue of Er<g ref="char:EOLhyphen"/>rata, and for its Epilogue, a —</p>
+            <closer>
+               <signed>Caetera deſiderantur.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171523:17"/>
+            <div type="part">
+               <head>Concerning the Name of <hi>VENUS.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Poets feign the Original of this Goddeſs to ariſe from the ſeed and teſticles of <hi>Sa<g ref="char:EOLhyphen"/>turne</hi> caſt into the Sea; whence the name in Greek is ἀφροδίτη although o<g ref="char:EOLhyphen"/>thers would have <hi>Venus</hi> to be derived from the Latin word <hi>viere,</hi> to bind, thereby intimating its uſual effects, by inſla<g ref="char:EOLhyphen"/>ving and captivating mens bodies and minds. It would not be improper to deduce her name from ἀφροσύνη, ſince that pourtraies her nature. By reaſon ſhe excell'd all in her exceſſive ap<g ref="char:EOLhyphen"/>petite after pleaſure and delight in luſt; ſhe is held of old to be the patroneſs or Goddeſs of Love. And hence by reaſon her adorers found ſuch delighting eaſe in worſhipping her; ſhe ſoon acquired a vaſt number of vaſſals and ſub<g ref="char:EOLhyphen"/>jects, ſo that now ſhe is become the moſt power<g ref="char:EOLhyphen"/>ful among the Goddeſſes. Above all others that worſhipped this light Goddeſs, there was a Cynique ſect of Philoſophers, that without ei<g ref="char:EOLhyphen"/>ther ſhame or bluſhing did openly ofter up their
+<pb n="2" facs="tcp:171523:18"/>chaſtities to her ſhrine. At <hi>Corinth</hi> ſhe had a Temple conſecrated to her name, unto which did daily flock a number of young men and maids, at whoſe altar they willingly did ſacri<g ref="char:EOLhyphen"/>fice, as a pleaſing offering, unſpotted virginities. <hi>Boemus Aubanus</hi> makes mention of a Countrey, whoſe inhabitants are all Adamites, or thoſe which went naked. Theſe people have very of<g ref="char:EOLhyphen"/>ten ſet meetings, where a number of both ſexes meeting together, every man takes her that likes him beſt to ſatisfie his luſt; according to the Poet:
+<q>
+                     <l>And then upon theſe well known ſweets they ventred,</l>
+                     <l>Where many an oft ſack'd fort was ſcal'd and en<g ref="char:EOLhyphen"/>tred;</l>
+                     <l>Art they had none, no man there plaid the ſuitor,</l>
+                     <l>Each man link'd to his own without a tutor.</l>
+                  </q>
+               </p>
+               <p>Let thus much ſuffice for the name of <hi>Venus,</hi> which you may take throughout this diſcourſe, for nothing elſe then a mutual copulation, or luſt, the ſubſtance of which being an unbridled force and ſcum of a luxurious nature.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:171523:18"/>
+               <head>What is Copulation?</head>
+               <p>LEt us now paſs from the name to the know<g ref="char:EOLhyphen"/>ledge of the thing it ſelf; and although there is none ſo ignorant, but knows ſomewhat of it, yet a word or two may not be amiſs, to make it appear more perſpicuous. Its thus then; Copulation is a conjunction of male and fe<g ref="char:EOLhyphen"/>male, by fitneſs of inſtruments, with an eje<g ref="char:EOLhyphen"/>ction of ſeed to beget their likeneſs. Its a con<g ref="char:EOLhyphen"/>junction, becauſe its act cannot be done at a diſtance of male and female, becauſe in every operation of nature, there is required an active and paſſive faculty; by apt inſtruments is meant, male and female genitals, which are required to be fit and proper; and not, as ſome vainly ſuppoſe, that creatures may ingender by conjoyning mouth to mouth, or eyes to eyes, &amp;c. or unnaturally one male with another, for that is not by apt inſtruments. Laſtly, with the ef<g ref="char:EOLhyphen"/>fuſion of ſeed, &amp;c. which is the complement of venereal action, and without which conception and generation can no way be effected. In this conſiſts the whole pleaſure and delight of lo<g ref="char:EOLhyphen"/>vers; this is that which luls, nay almoſt ſtupi<g ref="char:EOLhyphen"/>fies their mutual ſenſes: Wherefore take <hi>Ovids</hi> counſel if you pleaſe:
+<q>
+                     <l>Flie not then (maids) your tickling pleaſures, when</l>
+                     <l>They are deſir'd of you by loving men.</l>
+                     <l>Tell me what loſe you by it of your ſtore;</l>
+                     <l>You nothing loſe, but rather ſtill get more.</l>
+                     <pb n="4" facs="tcp:171523:19"/>
+                     <l>Taſt then a thouſand ſweets, be not afraid;</l>
+                     <l>You keep your own, and nothing is decay'd.</l>
+                     <l>Stones are by uſe made ſoft, irons wore to droſs;</l>
+                     <l>That never wears, and therefore finds no loſs.</l>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <head>What is Venereal love.</head>
+               <p>THere are of this love two ſorts; the one con<g ref="char:EOLhyphen"/>templative or Platonick, the other active or Socratical; the firſt contents it ſelf ſolely with ſeeing the object beloved; the other is infla<g ref="char:EOLhyphen"/>med the more by it, and can no wayes be ſatiſ<g ref="char:EOLhyphen"/>fied, but by the carnal injoyment of its belo<g ref="char:EOLhyphen"/>ved. This is that which is termed luſt. <hi>Sene<g ref="char:EOLhyphen"/>ca's</hi> definition of it is a forgetting of reaſon; to this you may add, its an enemy to the purſe, a foe to the perſon, a canker to the mind, a corraſive to the conſcience, a weakner of the wit, a beſotter of the ſenſes; and finally an enemy to the whole body. Another ſaith, Love is I know not what, born I know not where; it came I know not from whence, and inflamed I know not how.</p>
+               <q>
+                  <l>Love is a blinded fool, an angry boy,</l>
+                  <l>He's neither God nor man, a witleſs toy;</l>
+                  <l>He's any thing, yet's nothing that is juſt,</l>
+                  <l>A private hell, a raging ſea of luſt.</l>
+               </q>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:171523:19"/>
+               <head>Through what part is love at firſt received in.</head>
+               <p>THe receptacle, and habitation of Love is the eye; that is the firſt thing we perceive in the face.</p>
+               <q>
+                  <l>
+                     <hi>Venus</hi> her eyes do deeper wound mens hearts,</l>
+                  <l>Then <hi>Cupid</hi> can with all his bows and darts.</l>
+               </q>
+               <p>Love wounding through the eye of a lover, ea<g ref="char:EOLhyphen"/>ſily laieth open a paſſage to penetrate the heart. <hi>Cardanus</hi> is of opinion, that thoſe are not eaſily affectionate, but are flowly inthral'd by love, that have their eyes quick and piercing; For there is no beauty ſo perfect, in which a curi<g ref="char:EOLhyphen"/>ous ſharp eye may not find ſome defect. In a word, its the eye which is all in all to a lover; Its his ſentinel to perceive all things for his ad<g ref="char:EOLhyphen"/>vantage, nay it even penetrates the thoughts; its his legate and ſilent orator, to diſcover (when by either fear or her preſence he is ſtruck mute) thereby the inward motions of his or her amorous heart.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:171523:20"/>
+               <head>Who are they which are moſt apt to be in love?</head>
+               <p>ONe calls love a paſſion of an idle ſoul,
+<q>
+                     <l>In idle breaſts</l>
+                     <l>Love takes its rests.</l>
+                  </q>
+                  <q>
+                     <l>Let labour be thy ſauce, and excerciſe thy fire,</l>
+                     <l>Then will loves flames with its effects retire.</l>
+                  </q>
+               </p>
+               <p>Sloth and idleneſs being it is ſaid to be the pil<g ref="char:EOLhyphen"/>low of the Devil, therefore it muſt needs be the fountain of moſt vices, but eſpecially of luſtful deſires. How in an inſtant was valiant <hi>Hercules</hi> metamorphoſed by it into effeminate <hi>Venus?</hi> By giving way to idleneſs he ſoon laid aſide his Lions skin, and his mortiferous club, and betook himſelf to ſoft wantonneſs and effe<g ref="char:EOLhyphen"/>minacy; he quickly changed his maſculine ha<g ref="char:EOLhyphen"/>bit, and inveſted himſelf with feminine appa<g ref="char:EOLhyphen"/>rel, that thereby he might inſinuate himſelf, and more eaſily enjoy Queen <hi>Omphale. Sarda<g ref="char:EOLhyphen"/>napalus</hi> fell into the ſelf ſame errour as <hi>Hercules</hi> did, by not baniſhing idleneſs from him. For diveſting himſelf of that ſublimity and excel<g ref="char:EOLhyphen"/>lency which accompanies Majeſty, and ſeque<g ref="char:EOLhyphen"/>ſtring his perſon from his martial Nobility; he made theſe ſolely his companions, which were either Whores, Bawds, Panders, &amp;c. by which means he converted his royal Palace into a moſt filthy brothel-houſe. Doubtleſs there is ſcarce
+<pb n="7" facs="tcp:171523:20"/>a whoredome or adultery committed, wherein this ſluggiſh vice hath not a predominant hand. You may be reſolved of the Poet, why <hi>Aegi<g ref="char:EOLhyphen"/>ſthus</hi> fell adulterately in love with <hi>Clitemne<g ref="char:EOLhyphen"/>ſtra;</hi> both of which being ſteep'd in eaſe and reſt, and ſhe being a luſty Lady, (taking like<g ref="char:EOLhyphen"/>wiſe with impatience the abſence of her huſ<g ref="char:EOLhyphen"/>band) ſuch ſecret familiarity ſprung up be<g ref="char:EOLhyphen"/>tween them, that at laſt it turned into flat adul<g ref="char:EOLhyphen"/>tery.</p>
+               <q>
+                  <l>
+                     <hi>Aegiſthus</hi> did fair <hi>Clitemneſtra</hi> wo,</l>
+                  <l>Being idle he had nothing elſe to do.</l>
+               </q>
+               <p>Thoſe yet have been cried up through the whole world for their proweſs and valour, have by a little giving their minds to reſt, been mi<g ref="char:EOLhyphen"/>ſerably infeſted with this luſtful vice. <hi>Achilles</hi> had no ſooner reſted himſelf from ſlaying the Trojans, but he was ready to embrace his love, if you will believe <hi>Ovid,</hi> as he expreſſeth it in theſe termes:
+<q>
+                     <l>—He unarm'd his head,</l>
+                     <l>To tumble with his love in a down bed.</l>
+                     <l>Thoſe war-like hands that did but late embrew</l>
+                     <l>Themſelves in bloud of Trojans whom they ſlew,</l>
+                     <l>Were now imployed to tickle, touch and feel,</l>
+                     <l>And ſhake a lance that had no point of ſteel.</l>
+                  </q>
+               </p>
+               <p>It ſhould ſeem by this, that amorous encoun<g ref="char:EOLhyphen"/>ters is a petty kind of war, or at leaſt a duel, if I may terme it ſo improperly, otherwiſe <hi>Mars</hi> the God of war would have never loved it ſo
+<pb n="8" facs="tcp:171523:21"/>well. Here <hi>Ovid</hi> relates his being in love with <hi>Venus:</hi>
+                  <q>
+                     <l>The God of war doth in his brow diſcover,</l>
+                     <l>The perfect and true pattern of a lover:</l>
+                     <l>Nor could the Goddeſs <hi>Venus</hi> be ſo cruel,</l>
+                     <l>
+                        <hi>Mars</hi> to deny; ſuch kindneſs is a jewel.</l>
+                     <l>The Sun both ſees and blabs the ſight forthwith,</l>
+                     <l>In all great haſte he speeds to tell the Smith.</l>
+                     <l>Oh Sun! what bad example doeſt thou ſhow?</l>
+                     <l>What thou in ſecret ſeeſt, muſt all men know?</l>
+                     <l>For ſilence ſake, ask bribes from her fair treaſure,</l>
+                     <l>She'll grant thee that ſhall make thee ſwell with pleaſure.</l>
+                     <l>The Smith whoſe face is ſmok'd with ſmut and fire,</l>
+                     <l>Placeth about the bed a net of wire;</l>
+                     <l>The lovers met where he that train hath ſet,</l>
+                     <l>And both are catch'd within that wiry net.</l>
+                     <l>He calls the Gods, the lovers naked spraul,</l>
+                     <l>And cannot riſe; the Queen of Love ſhews all.</l>
+                     <l>
+                        <hi>Mars</hi> chafes, and <hi>Venus</hi> weeps —</l>
+                  </q>
+               </p>
+               <p>Moreover, Phlegmatick and Melancholy men, as (it is confeſt) are not eaſily induced to love, yet when once they are ſo, they love moſt vehemently. Another thing that doth invite, or rather charm men to love, is Muſick.</p>
+               <q>
+                  <l>As without breath no pipe doth move,</l>
+                  <l>No muſick kindly without love.</l>
+               </q>
+               <p>To be ſure they have little elſe to do then to behave themſelves as ſervants befitting <hi>Venus,</hi>
+                  <pb n="9" facs="tcp:171523:21"/>that ſpend moſt of their moſt precious time in reading Romances, and ſuch like amorous and fictitious ſtories.</p>
+            </div>
+            <div type="part">
+               <head>Concerning thoſe things that increaſe love.</head>
+               <p>A Morous deſies are rekindled by the ſight and remembrance of the object beloved.</p>
+               <q xml:lang="lat">
+                  <l>Tu niſi vitaris quicquid revocabit amorem,</l>
+                  <l>Flamma redardeſcet, quae modo nulla fuit.</l>
+               </q>
+               <p>Or as one of our Engliſh-men hath it;
+<q>
+                     <l>Fair beauty is the spark of hot deſire,</l>
+                     <l>And sparks in time will kindle to a fire.</l>
+                  </q>
+               </p>
+               <p>Philoſophers are of opinion that we are nouri<g ref="char:EOLhyphen"/>ſhed of that of which we are. Love hath its ori<g ref="char:EOLhyphen"/>ginal from the eyes, and from thence by con<g ref="char:EOLhyphen"/>ſequence it muſt have its increment and ali<g ref="char:EOLhyphen"/>ment; Love, though blind, by often meeting and ſeeing the perſon beloved, obſerves ſome new pleaſing charme which it obſerved not be<g ref="char:EOLhyphen"/>fore, which keeps up its heart from ſinking into deſpair, and which forceth him to uſe importu<g ref="char:EOLhyphen"/>nity and opportunity, that he may at laſt crown his deſires.</p>
+               <pb n="10" facs="tcp:171523:22"/>
+               <q>
+                  <l>Do but perſist that ſuit thou hast begun,</l>
+                  <l>In time will chaſte <hi>Penelopy</hi> be won.</l>
+                  <l>Oft what ſhe moſt denies ſhe moſt deſires;</l>
+                  <l>In froſty woods are hid the hotteſt fires.</l>
+                  <l>Onely begin to reap what thou haſt ſown,</l>
+                  <l>A million to a mite ſhe is thy own.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>Whether Love may be cured by medicaments.</head>
+               <p>ALthough there be many things that will blunt the edge of luſt, yet when love is a chaſt paſſion, being of a long time rooted in the heart, its not eaſily to be ſupplanted but by death, or the object poſſeſſed or enjoyed.</p>
+               <q>
+                  <l>
+                     <hi>Apollo</hi> that by vertual heat</l>
+                  <l>Did virdant plants and herbs create,</l>
+                  <l>Yet found no herb or plant to be</l>
+                  <l>A medicine for loves malady.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>Concerning Love-potions or Philters.</head>
+               <p>
+                  <hi>ALbertus Magnus</hi> and <hi>Plinie</hi> relate ſeveral things conducing to this Philter, though for the moſt part vaine and feigned. Former times joyned to ours will afford variety of ex<g ref="char:EOLhyphen"/>amples of ſuch men, as by theſe potions have
+<pb n="11" facs="tcp:171523:22"/>ſo perverted female fancies, as in an inſtant they have cauſed them to love thoſe which a little before they hated. At <hi>Brixia</hi> there is a monu<g ref="char:EOLhyphen"/>ment which makes mention of a woman that uſed this art, with this inſcription:
+<q xml:lang="lat">
+                     <lg rend="italic">
+                        <head>D. M.</head>
+                        <l>Qui me volent.</l>
+                        <l>Valete matronae, matreſque</l>
+                        <l>Familiâs, vixi, &amp; ultra</l>
+                        <l>Vitam, nihil credidi, Me</l>
+                        <l>Veneri alumnae addixi.</l>
+                        <l>Quos potui, pellexi philtro,</l>
+                        <l>Et aſtu; viro humato</l>
+                        <l>Non vidua fui, &amp;c. —</l>
+                     </lg>
+                  </q>
+               </p>
+               <p>Its reported that <hi>Charles</hi> the Great, King of <hi>France,</hi> was by this means charmed to affect a woman of a mean beauty, and had he not been miraculouſly admoniſhed by an Angel what to do, he had been for ever undone. The thing effecting this, is ſmall, if you conſider its exter<g ref="char:EOLhyphen"/>nal quality, as being nothing but a little ſtone faſtned to the womans gums; but it ſeems its internal vertue was ſuch that it made him lay aſide and almoſt wholly forget the affairs of his kingdome, that thereby he might have the more freedom and occaſion to be continually imbracing this ſtrumpet. At laſt a Prieſt of this Kings was admoniſhed by an Angel to kill this woman, to free his Majeſty from ſuch a pernicious malady, which accordingly was done; yet the King ſtill loved the dead and almoſt
+<pb n="12" facs="tcp:171523:23"/>ſtinking carcaſe; till the ſecond time the An<g ref="char:EOLhyphen"/>gel appeared, and told him he ſhould remove the ſtone out of her mouth; which was no ſoo<g ref="char:EOLhyphen"/>ner done, but the King then as much deteſted her, as before he loved her. There is no que<g ref="char:EOLhyphen"/>ſtion but Philters may be made, but the dan<g ref="char:EOLhyphen"/>ger the compoſing and adminiſtring them will bring, may be a ſufficient ground to hinder any from making them.</p>
+            </div>
+            <div type="part">
+               <head>Whether females may change their Sex.</head>
+               <p>HIſtories are full of ſuch accidents. <hi>Auſonius</hi> ſaith, <hi>Venus Epheborum virgo repente fuit. Hippocrates, Marcellus, Donatus,</hi> with many o<g ref="char:EOLhyphen"/>ther learned Phyſicians, can ſufficiently fur<g ref="char:EOLhyphen"/>niſh you with many examples of ſuch cataſtro<g ref="char:EOLhyphen"/>phe's. <hi>Michael Montanus</hi> atteſts, that in his time a maid by a violent jump was changed in<g ref="char:EOLhyphen"/>to a man, her Clytoris iſſuing forth. <hi>Fulgoſius</hi> writes of a maid of fifteen years of age, being married, the firſt night her husband lay with her, was thus changed: whether it was by reaſon of her too much motion in the venereal act, or the fervent heat of thoſe parts, I cannot tell; but probably it might happen by an ex<g ref="char:EOLhyphen"/>traordinary dilatation of the Clytoris, by much hoat, and thereby being provok'd, and by rea<g ref="char:EOLhyphen"/>ſon of its ſwelling on every ſide, not able to contain it ſelf within any longer, iſſued out.
+<pb n="13" facs="tcp:171523:23"/>This Clytoris lies latent within a womans pu<g ref="char:EOLhyphen"/>denda, which anſwers to a mans virile; this if it chance to grow over-much, may ſtand in ſtead of a mans members, yet without effuſion of ſeed. Wherefore heretofore there hath been laws enacted againſt feminine congreſſion, be<g ref="char:EOLhyphen"/>ing it is a thing that happens too too common and frequent.</p>
+            </div>
+            <div type="part">
+               <head>Which is moſt luſtfull, a man or a beaſt.</head>
+               <p>MAny beaſts and creatures are ſo intent on their luſt, as ſome become mad, others have died in the action. Aſſes and Stags by reaſon of their raging luſt, run horn-mad. Vi<g ref="char:EOLhyphen"/>pers eat the head of the female in the act. All which demonſtrate plainly the greatneſs of the luſt of beaſts. And the truth of it is, they have a better plea for it (in many reſpects) then men. There were enough, if they had nothing more on their ſides, then that delight is moſt proper to them, but joy to man; and that which beaſts do by ſenſe, man ſhould abſtain from by his reaſon. Yet for all that man is ſo vaine as to take luſt for his leader, to conduct him to bawdy-houſes, to commit adulteries, nay even inceſts, which (to his ſhame) ſome beaſts ab<g ref="char:EOLhyphen"/>hor.</p>
+               <q xml:lang="lat">
+                  <l>Luſt makes oblivion, beateth reaſon back,</l>
+                  <l>Forgetteth ſhames pure bluſh and horours wrack.</l>
+               </q>
+               <pb n="14" facs="tcp:171523:24"/>
+               <p>Beſides it is very unuſual and ſeldome ſeen or heard of, that beaſts have deſired copulation with man-kind, whereas, O wickedneſs! ma<g ref="char:EOLhyphen"/>ny men have been convicted and condemned for buggery. Hiſtories make mention of thoſe that have had congreſſion with a Goat, and the birth proved as monſtrous as the act was unna<g ref="char:EOLhyphen"/>tural and abominable. Wherefore we may pe<g ref="char:EOLhyphen"/>remptorily conclude, a man to be more luſtful extenſively, beaſts intenſively: Men as they reſpect no time, beaſts as they are guided by ſenſe alone. Furthermore, he may not onely be accuſed for unſeaſonable and immoderate uſe of <hi>Venus,</hi> but alſo for the illegality of it. If he is truly convicted of luſt, he may alſo be condemned for vice; for luſt is defined to be a laſcivious petulancy, or a concupiſcence of pro<g ref="char:EOLhyphen"/>ving unlawful and ſinful pleaſures. The two hand-maids of it are fornication and adultery, accompanied with ſcortation, inceſt and ſodo<g ref="char:EOLhyphen"/>my. Of this ſin were moſt of the Roman Em<g ref="char:EOLhyphen"/>perours guilty, in polluting and maculating their reſplendent power and Majeſty with filthy luxuries and effeminacy; of the manner and exceſs of which no heart can conceive, or fancy apprehend. They ſeldome brought home vi<g ref="char:EOLhyphen"/>ctory from any nation, but they did likewiſe their vices. As it is apparent from their learn<g ref="char:EOLhyphen"/>ing from the Greeks, not onely <hi>Graecari,</hi> that is to drink hard, but alſo <hi>Moechari,</hi> that is to ſtu<g ref="char:EOLhyphen"/>prate and be laſcivious. But to conclude, let your Wantons ſeriouſly conſider what this luſt<g ref="char:EOLhyphen"/>ful pleaſure is, and in the end they ſhall find it a delight bought with pain, and hatched with
+<pb n="15" facs="tcp:171523:24"/>unquietneſs; alwayes accompanied and finiſh<g ref="char:EOLhyphen"/>ed with ſorrow; by continuance it grows to im<g ref="char:EOLhyphen"/>pudence, and infamy continually waits at its heels, nay oftentimes ſudden death, which you ſhall find true (laying aſide whole vo<g ref="char:EOLhyphen"/>lumes of tragical hiſtories of this nature) if you inquire after the monethly Seſſions held at <hi>Newgate,</hi> where thoſe that would paſs for maids, rather then come to any diſgrace, have inhu<g ref="char:EOLhyphen"/>manely deſtroyed that which was the iſſue of their ſtolen delights, and ſo have for the fact meritoriouſly ſuffered death. Wherefore thoſe that are libidinouſly addicted, let them be forewarned with this diſtical caveat:
+<q xml:lang="lat">
+                     <l>Quid facies, facies Veneris cùm veneris ante?</l>
+                     <l>Non ſedeas, ſed eas, ne pere as per eas.</l>
+                  </q>
+                  <q>
+                     <l>What wilt thou do, when thou before</l>
+                     <l>The face of thy fair Paramore</l>
+                     <l>Appear'ſt? ſtay not, but diſappear,</l>
+                     <l>Leſt her inticements coſt thee dear.</l>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <head>Which of the two is moſt luſtfull, a Man or a Woman.</head>
+               <p>THe Poets of old make us believe that <hi>Tireſias</hi> was blinded by <hi>Juno</hi> for his juſt judgment. For on a time <hi>Jupiter</hi> meeting with him, asked him a merry queſtion, <hi>viz.</hi> whether a man or a woman was moſt laſcivious, and takes moſt
+<pb n="16" facs="tcp:171523:25"/>pleaſure in venereal copulation? to which he anſwered poſitively, the woman did. Though this ſeem a fabulous fiction, yet I will aſſure you the moral of it is all truth. <hi>Caelius Rodigi<g ref="char:EOLhyphen"/>nus</hi> thinks (and that upon good grounds) that a woman is ten times more inclined to, and de<g ref="char:EOLhyphen"/>lighted in copulation then a man. <hi>Ovid</hi> in his Art of Love inſinuates as much, when he ſings,
+<q>
+                     <l>Stolen pleaſure which to men is never hateful,</l>
+                     <l>To women (ſeeming ſhie) is ever grateful.</l>
+                     <l>The difference is, a maid her love oft covers;</l>
+                     <l>Men are more impudent, and publick lovers.</l>
+                  </q>
+               </p>
+               <p>But eſpecially if ſhe conceives; for then the injected ſeed moves the nerves, and from thence the ardor of confrication ariſeth. A Woman ſwelling with luſt is not eaſily ſatisfi<g ref="char:EOLhyphen"/>ed, for the taſting of thoſe ſweets makes her the more deſirous of them. <hi>Solomon</hi> ſaith, there are four things never ſatisfied; the grave, the womb, the earth, and the fire. <hi>Meſſalina</hi> the Empreſs was ſo impudent as openly to confeſs, that if ſhe lay with a man an hundred times a day, ſhe might be wearied, but never ſatisfied. It may be objected, that a man though of a cold conſtitution, is of a hotter then the hotteſt woman. <hi>Aristotle</hi> eaſily reſolves this objection, by this diſtinction, that a mans upper parts are hotter and ſtronger, but the lower parts of a woman are much hotter. Wherefore it ſeems nature foreſeeing the dan<g ref="char:EOLhyphen"/>ger that might enſue by it, prepared the men<g ref="char:EOLhyphen"/>ſtruous bloud, and ordained it to flow once a moneth, to frigifie temperately thoſe parts,
+<pb n="17" facs="tcp:171523:25"/>otherwiſe ſhe might by an over-ardent venere<g ref="char:EOLhyphen"/>all deſire run mad.</p>
+            </div>
+            <div type="part">
+               <head>Which is moſt luſtfull, a Maid or a Woman?</head>
+               <p>THough it is a difficult thing to determine, if you conſider the manifold reaſons that may be alledged on both ſides, yet we ſhall in the end find, that of the two, the maid is leaſt ſtirred and pricked on to luſt. For Virgins having never experimented thoſe ſweet and raviſhing delights, that are ſwallowed at a venereal ban<g ref="char:EOLhyphen"/>quet; by that means they cannot ſo eagerly deſire an unknown thing — <hi>Ignoti nulla cupi<g ref="char:EOLhyphen"/>do.</hi> Whereas a woman recollecting into her memory, her paſt delights, and fervently think<g ref="char:EOLhyphen"/>ing on thoſe ſhe may enjoy, ſhe already burns in her fancy with impatient deſires, before ſhe come to action. Who then can deny, but that one loves a delightful good (if I may ſo call it) and deſires it with more fervency, which is al<g ref="char:EOLhyphen"/>ready known, then that which is onely percei<g ref="char:EOLhyphen"/>ved by imagination? But you will ſay, that the force of imagination is very ſtrong, and often<g ref="char:EOLhyphen"/>times ſuppoſeth more then really there is. Be<g ref="char:EOLhyphen"/>ſide, a maid more abounds with bloud, ſeed, and ſpirits. Again, when their courſes firſt be<g ref="char:EOLhyphen"/>gin to flow, their luſt is very much ſharpened; and that's the reaſon that <hi>Ariſtotle</hi> adviſeth pa<g ref="char:EOLhyphen"/>rents diligently to obſerve the actions of their
+<pb n="18" facs="tcp:171523:26"/>daughters at that time (that is, at the age of fourteen, ſometimes twelve) becauſe then they are moſt apt to be drawn to commit unclean<g ref="char:EOLhyphen"/>neſs. What then may we determine in ſo dubi<g ref="char:EOLhyphen"/>ous a matter? We can ſay no more but this, that the maid is more luſtful intenſively, the woman extenſively, as continually having in her remembrance her paſt and future ſweet ra<g ref="char:EOLhyphen"/>viſhing imbraces.</p>
+            </div>
+            <div type="part">
+               <head>The ſignes and marks of luſtfulneſs from a mans temperament, age, diſpoſition of body, and his Coun<g ref="char:EOLhyphen"/>trey.</head>
+               <div type="section">
+                  <head>Temperament.</head>
+                  <p>IN the firſt place, the ſanguine complexion is that which hath the greateſt proclivity to <hi>Ve<g ref="char:EOLhyphen"/>nus;</hi> for in this temperament hath calidity and humidity almoſt the ſole predominancy; ſuch was the complexion of a man of <hi>Arragon,</hi> of whom it is reported, that he— his wife ten times a day. In the ſecond rank is to be ac<g ref="char:EOLhyphen"/>counted the melancholick, whoſe flatuous hu<g ref="char:EOLhyphen"/>mour much whets the edge of luſt. In the third place the Cholerick, which though it abounds
+<pb n="19" facs="tcp:171523:26"/>not with ſeed, yet there are ſharp ſpirits, which cauſe prurition. Whence <hi>Plato</hi> gathers that concupiſcence and anger are couſin-germans, for the ſeat of both theſe paſſions is the Liver. The laſt temperament is the Phlegmatick, which being cold and moiſt, the edge of luſt is thereby ſuppreſt.</p>
+               </div>
+               <div type="section">
+                  <head>Age.</head>
+                  <p>THe youthful age is the time of <hi>Venus</hi> her har<g ref="char:EOLhyphen"/>veſt. In old men there is not ſo much vi<g ref="char:EOLhyphen"/>gor and heat as to prick them on to luſt, where<g ref="char:EOLhyphen"/>as youth is all ſpirit and life. Hence the Poet,
+<q xml:lang="lat">
+                        <l>Prima Cupidine is aetas manet apta triumphis;</l>
+                        <l>Non gaudet veteri ſanguine mollis amor.</l>
+                     </q>
+                     <q>
+                        <l>The youthful age lies ope to <hi>Cupids</hi> dart,</l>
+                        <l>But the old man is valued not a —</l>
+                     </q>
+                  </p>
+                  <p>Sick men want ſeed by reaſon of their weakneſs; old men want it, becauſe they have no ſtrength to concoct their aliment; young lads have it not becauſe its converted into increment: And youths though they have it, yet by a ſmall mat<g ref="char:EOLhyphen"/>ter they loſe it; accordingly <hi>Seneca</hi> ſaith,
+<q xml:lang="lat">
+                        <l>Juvenilis ardor impetu primo furit,</l>
+                        <l>Langueſcet idem facilè, nec durat diu</l>
+                        <l>In Venere turpi, ceu levis flammae vapor.</l>
+                     </q>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="20" facs="tcp:171523:27"/>
+                  <head>Diſpoſition of body.</head>
+                  <p>A Thin body both gives and receives far more delight then a fat corpulent one. For fat men are deſtitute of much bloud, and there<g ref="char:EOLhyphen"/>fore are inclined to cold; your fat women are commonly barren. <hi>Ovid</hi> affirmes what I ſay to be true in ſaying that,
+<q>
+                        <l>Thy leanneſs argues love; ſeem sparely fed,</l>
+                        <l>And ſometimes wear a night-cap on thy head.</l>
+                     </q>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Countrey.</head>
+                  <p>THoſe which inhabit cold Countreys are both hot and ſtrong, it muſt needs be then that they are inclined to venery. The Thracians (a war-like people) loved venery ſo well, that they gloried in the multitude of their wives. Thus <hi>Ovid</hi> ſings of <hi>Tereus</hi> King of the Thracians, be<g ref="char:EOLhyphen"/>ing in love with <hi>Progne:</hi>
+                     <q>
+                        <l>
+                           <hi>Progne</hi> in <hi>Tereus</hi> ſuch a burning breeds,</l>
+                        <l>As when we fire a heap of hoary reeds;</l>
+                        <l>Or catching flames to ſun-burnt ſtubble thrust.</l>
+                        <l>Her face was excellent, but inbred luſt</l>
+                        <l>Inrag'd his bloud, to which thoſe climes are prone, &amp;c.</l>
+                     </q>
+                  </p>
+                  <pb n="21" facs="tcp:171523:27"/>
+                  <p>The Egyptians ſo much devote themſelvs to this kind of life, as that few among them are found chaſte. <hi>Americus</hi> reports, that in his voyage to <hi>Eaſt-India,</hi> he found an Iſland, whoſe inha<g ref="char:EOLhyphen"/>bitants were ſo extremely given to lechery, that his Mariners were hadly aſhore, before ten wo<g ref="char:EOLhyphen"/>men were about one man, every one deſiring him to appeaſe and qualifie their burning itch: theſe people have among them an herb which hath ſuch a myſterious quality, as that it will dilate girles privy members, and magnifie and longifie their boys members; to both which they uſe to adminiſter it, that they may the ſooner be capable for to exerciſe them.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The ſigns of luſtfulneſs from the ſta<g ref="char:EOLhyphen"/>ture, colour, ſtrength, and ſeaſon of the year.</head>
+               <div type="section">
+                  <head>From the Stature.</head>
+                  <p>MEn of a low or ſhort compoſure of body, in<g ref="char:EOLhyphen"/>joy a more quick and piercing ſenſe of ve<g ref="char:EOLhyphen"/>nereal pleaſure, then tall men. For ſince their aliment doth not increaſe their bodies, certainly the more oft it is converted into ſeed. This holds even in beaſts; the Elephant brings forth but one, and yet the little Coney bears twelve, the Wren eighteen, yet the Pigeon but two.</p>
+               </div>
+               <div type="section">
+                  <pb n="22" facs="tcp:171523:28"/>
+                  <head>Colour.</head>
+                  <p>
+                     <hi>ARiſtotle</hi> in his Epiſtle to <hi>Alexander,</hi> admoni<g ref="char:EOLhyphen"/>ſheth him to beware of the red hair'd man, becauſe as he is given to all manner of vices, ſo eſpecially to incontinency. Women that have flaxen hair are for the moſt part wanton; of the ſame ſignification are brown hairs. There<g ref="char:EOLhyphen"/>fore Phyſicians adviſe to chooſe a nurſe that's brown, for by her temperate natural heat, ſhe breeds good milk. That man or woman that have hairs of a leadiſh colour (proceeding from aduſtion) are inſatiable in venery.</p>
+               </div>
+               <div type="section">
+                  <head>Beauty.</head>
+                  <p>ALthough a beautiful ſoul may inhabit in a comely body, yet it is not ordinary to meet with them both ſo accompliſhed.</p>
+                  <q>
+                     <l>It is a thing we ſeldome ſee, <hi>Juvenal.</hi>
+                     </l>
+                     <l>Beauty and honesty agree.</l>
+                  </q>
+                  <p>
+                     <hi>Demetrius, Hyſmael, Lais,</hi> and <hi>Fauſtina</hi> were beautiful and handſome, even to admiration, yet unchaſte even to deteſtation.</p>
+               </div>
+               <div type="section">
+                  <pb n="23" facs="tcp:171523:28"/>
+                  <head>Seaſon of the year.</head>
+                  <p>WOmen are moſt luſtful in the Summer, but Men in the winter. Women being of cold and moiſt temper, are refreſh'd and cheriſh'd by the application of its contrary, whereas a man is debilitated by the too much extracting of his proper heat. Wherefore for the commo<g ref="char:EOLhyphen"/>dity of both Sexes, the Spring is to be choſen as the beſt ſeaſon of the year for generation.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Signs of luſtfulneſs from diſeaſes.</head>
+               <div type="section">
+                  <head>Barrenneſs.</head>
+                  <p>BArren Women for the moſt part are unſatis<g ref="char:EOLhyphen"/>fiable in their luſt. And this is ſo upon two conſiderations. Firſt, having no children, they are ſo much the more deſirous to have them, and therefore they would uſe the means oftner. Give me childen (ſaith barren <hi>Rachel</hi>) or I die. But the chief reaſon is, that they a<g ref="char:EOLhyphen"/>bound with ſo much heat and bloud, as it burns the mans ſeed; the ſame thing makes them exceſſively lecherous.</p>
+               </div>
+               <div type="section">
+                  <pb n="24" facs="tcp:171523:29"/>
+                  <head>Retention of the Courſes.</head>
+                  <p>OBſtructions do ſo inflame the womb and ge<g ref="char:EOLhyphen"/>nitals, that as they cauſe a prurition, ſo likewiſe they are the original of a thouſand dan<g ref="char:EOLhyphen"/>gerous ſymptomes. The ſign of this indiſpoſi<g ref="char:EOLhyphen"/>tion of body is too too viſible to every ones eye; to wit, and univerſal paleneſs. This wanneſs (if we may credit <hi>Ovid</hi> in his <hi>Art of Love</hi>) is an excellent <hi>indicium</hi> of a loving ſoul.</p>
+                  <q>
+                     <l>Let him that loves look pale; for I protest,</l>
+                     <l>That colour in a lover ſtill ſhews beſt.</l>
+                     <l>
+                        <hi>Orion</hi> wandring in the woods look'd ſickly;</l>
+                     <l>
+                        <hi>Daphne</hi> be'ng once in love, love colour quickly.</l>
+                  </q>
+               </div>
+               <div type="section">
+                  <head>Bunch-Backs.</head>
+                  <p>THeſe ſort of men, as they are for the moſt part proud and fantaſtick, ſo they are com<g ref="char:EOLhyphen"/>monly very lecherous. They ſeldome or never are fat; therefore we may ſuppoſe that the ſe<g ref="char:EOLhyphen"/>minal humour (by reaſon of the ſhortneſs of their back) dath paſs immediately into the ſe<g ref="char:EOLhyphen"/>minal veſſels. This may be the reaſon that Camels uſe copulation all the day long. There are very few defective in one part, that are not gratified by nature in ſome extraordinary man<g ref="char:EOLhyphen"/>ner in ſome other part. Thoſe that have lame
+<pb n="25" facs="tcp:171523:29"/>legs are fruitful and luſtful; for that which ſhould nouriſh thoſe parts, is turned into ſeed. Wherefore <hi>Antianita</hi> Queen of the <hi>Amazons,</hi> being reprehended for marrying a lame man, made this her plea, that <hi>Claudus optimè virum agit.</hi> The lame man is the beſt womans man.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Concerning Satyriaſis.</head>
+               <p>THis affection is an itching in a womans pri<g ref="char:EOLhyphen"/>vities, cauſing in her an ardent deſire to ſcratch them. This diſeaſe is ſo powerful, that it forces women (againſt their cuſtome) to in<g ref="char:EOLhyphen"/>treat men to lie with them, with this proviſo, that they are ſufficiently able to quell this itch<g ref="char:EOLhyphen"/>ing.</p>
+               <q>
+                  <l>If modeſty and women once do ſever,</l>
+                  <l>Farewell their name, farewell their fame for ever.</l>
+               </q>
+               <p>Some women of a greater modeſty then ordina<g ref="char:EOLhyphen"/>ry, ſtrive to ſuppreſs theſe motions, cauſed by this diſeaſe, but all to little purpoſe; their ve<g ref="char:EOLhyphen"/>ry looks betray them.</p>
+               <q>
+                  <l>Poor womans looks,</l>
+                  <l>Are their fault-books.</l>
+               </q>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:171523:30"/>
+               <head>Phyſiognomical ſigns of luſt.</head>
+               <p>YEllow hairs, and black flagging are a type of lechery:
+<q>
+                     <l>The fearful and the peeviſh, pale and wan;</l>
+                     <l>The black a woman lover more then man.</l>
+                  </q>
+               </p>
+               <p>Its an infallible ſign of this, if a man is bald and not old; but if old and not bald, you may conclude he hath loſt one of his ſtones, or both.</p>
+               <div type="section">
+                  <head>Face.</head>
+                  <p>ONe that hath a thick and ſmooth face is ſlothful and given to pleaſures. Take this for a general rule, that to what beaſts face ſo<g ref="char:EOLhyphen"/>ever a mans may be likened, you may parallel their conditions and manners together.</p>
+               </div>
+               <div type="section">
+                  <head>Forehead.</head>
+                  <p>A Little ſtraight forehead denotes an unbri<g ref="char:EOLhyphen"/>dled appetite in luſt.</p>
+               </div>
+               <div type="section">
+                  <pb n="27" facs="tcp:171523:30"/>
+                  <head>Eyes.</head>
+                  <p>SO many motions as are in the mind, ſo many ſignifications therof can the eyes make. Strea<g ref="char:EOLhyphen"/>ky eyes (ſuch as <hi>Venus</hi> is ſaid to have) are her minions, but red eyes ſignifie inſatiety in lechery. Great trembling eyes in men pro<g ref="char:EOLhyphen"/>claim intemperancy; little merry ones, and thoſe that ſeem alwayes ſmiling, in women be<g ref="char:EOLhyphen"/>token laſciviouſneſs.</p>
+               </div>
+               <div type="section">
+                  <head>Ears.</head>
+                  <p>LIttle ears demonſtrate aptneſs to venery.</p>
+               </div>
+               <div type="section">
+                  <head>Noſe.</head>
+                  <p>A Roman Noſe is a lecherous ſign; <hi>Heliogaba<g ref="char:EOLhyphen"/>lus</hi> aſſociated all that had ſuch noſes, to ſa<g ref="char:EOLhyphen"/>tisfie his beaſtly luſt withall: A woman that hath a long noſe is luſtful. A man that hath a big noſe and wide noſtrils, is the onely darling of <hi>Venus.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="28" facs="tcp:171523:31"/>
+                  <head>Mouth.</head>
+                  <p>A Great mouth as it is an evident ſign of gree<g ref="char:EOLhyphen"/>dineſs, ſo of luſt.</p>
+               </div>
+               <div type="section">
+                  <head>Chin.</head>
+                  <p>THey which have beards over-ſoon are ve<g ref="char:EOLhyphen"/>ry petulant; if women have beards, being not very old, their luſt is not to be ſatisfied.</p>
+               </div>
+               <div type="section">
+                  <head>Breaſts.</head>
+                  <p>LIttle breaſts in women are a greater ſign of luſt, then great ones. But if men have them great, it ſignifies the contrary.</p>
+               </div>
+               <div type="section">
+                  <head>Pubes.</head>
+                  <p>THey who have much hair about the privy members are luſtful, becauſe it denotes that they abound with much fumy heat and excre<g ref="char:EOLhyphen"/>ments. Thoſe women that have none, are ſlow to venery, and not fruitful.</p>
+               </div>
+               <div type="section">
+                  <pb n="29" facs="tcp:171523:31"/>
+                  <head>Navel.</head>
+                  <p>THe navel ſhould imitate the proportion of the virile members. Therefore let midwives take notice that they cut the navel by an equal proportion of longitude with the pudenda. For the longer the navel (by ſympathy) the longer the Pudenda.</p>
+               </div>
+               <div type="section">
+                  <head>Legs.</head>
+                  <p>THick calfs and bow-legs ſignifie that man to be luſtful; of the ſame ſignification are very ſmall legs. But enough of theſe Phyſio<g ref="char:EOLhyphen"/>gnomical ſigns: And though they are ſure marks, yet may they prove falſe by grace and reaſon. <hi>Socrates</hi> and <hi>Hippocrates</hi> ingeniouſly confeſs that they were mark'd out for men given to theſe luſtful pleaſures, and really had a great propenſity to them, yet by their indeavour to reſtrain themſelves from them, they became ſuch abſolute conquerors, as they betook them<g ref="char:EOLhyphen"/>ſelves wholly to Philoſophy. Therefore it is a hard matter to conclude any man luſtful or chaſt, but by experience; yet
+<q>
+                        <l>B'adviſed my friend for thy more quiet life,</l>
+                        <l>Too far truſt no man with thy wife.</l>
+                     </q>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="30" facs="tcp:171523:32"/>
+                  <head>Of Moles.</head>
+                  <p>IF on the eyes or noſe a mole appear, it ſhews that man or woman to be luſtful. There is a great ſympathy between the noſe and privities; wherefore <hi>Haly</hi> ſaith, that if there be a mole on the noſe, there is one alſo on the privy mem<g ref="char:EOLhyphen"/>bers.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Examples of ſuch Men and Women that have been very luſtfull and lecherous.</head>
+               <p>ITs not my intent to write of all that have been that way addicted, but onely ſuch as have been notable for their birth and dignity. Among whom may be (in the firſt place) <hi>Ju<g ref="char:EOLhyphen"/>lius Caeſar,</hi> who neither ſpared Women, Maids, nor Boys, but made them all proſtitutes to his luſt. But moſt of all he loved <hi>Cleopatra,</hi> with whom he uſually ſported from night to morn<g ref="char:EOLhyphen"/>ing. <hi>Tiberius Caeſar</hi> would ordinarily at his ban<g ref="char:EOLhyphen"/>quets have naked Virgins attend on him, and there in his ſight would he have luſty young men to lie with ſome of them, to ſtir him up the more to luſt when he ſhould come to act his part. <hi>Nero</hi> was ſuch an inceſtuous villaine, as not to ſpare his own Mother. He loved a boy
+<pb n="31" facs="tcp:171523:32"/>ſo intirely, that he endeavoured to change his ſex, by cutting off his members. <hi>Darius</hi> was wont to carry to the wars with him three hun<g ref="char:EOLhyphen"/>dred and fifty Concubines. <hi>Sardanapalus</hi> left the government of his Kingdome to enjoy the company of looſe women, with whom he lived in womans apparel, till <hi>Arbaces</hi> burnt him, his whores and riches altogether. <hi>Romulus</hi> is report<g ref="char:EOLhyphen"/>ed by <hi>Ovid</hi> to have erected a ſtage or conveni<g ref="char:EOLhyphen"/>ent place to ſatisfie his ſouldiers luſt; in theſe words:
+<q>
+                     <l>Now with a ſign of rape given from the King,</l>
+                     <l>Round through the houſe the luſty Romans fling,</l>
+                     <l>Leaving no corner of the ſame unſought,</l>
+                     <l>Till every one a frighted virgin caught.</l>
+                     <l>Thus were the raviſh'd Sabines bluſhing led,</l>
+                     <l>Becoming ſhame unto each Romans bed.</l>
+                     <l>Full well would <hi>Romulus</hi> his Souldiers pleaſe,</l>
+                     <l>To give them ſuch fair miſtreſſes as theſe.</l>
+                     <l>If ſuch rich wages thou wilt give to me,</l>
+                     <l>Great <hi>Romulus,</hi> thy ſouldier I will be.</l>
+                  </q>
+               </p>
+               <p>
+                  <hi>Hercules</hi> is ſaid to have made fifty Virgins ſo many women in one night. <hi>Gordianus</hi> had two and twenty Concubines, of every one of which he had three children apiece. <hi>Proculus Caeſar</hi> begat with child an hundred maids in fifteen nights and days. <hi>Solomon</hi> (as the holy Writ hath it) had three hundred Concubines, beſides fifty Queens who were ſubſervient to his de<g ref="char:EOLhyphen"/>ſires. <hi>Cyrene</hi> invented twelve ſeveral wayes to delight her lovers; but of late dayes <hi>Aretine</hi> found out two and fourty, which he calls his
+<pb n="32" facs="tcp:171523:33"/>Poſtures. <hi>Meſſalina</hi> was wont to congregate a number of virgins, whom ſhe cauſed to be de<g ref="char:EOLhyphen"/>flowred, and if they refuſed it, ſhe put them to death. Hear what <hi>Juvenal</hi> ſaith of her, in his ſixth Satyr;
+<q>
+                     <l>Th' Imperial ſtrumpet, with one maid ſtole out,</l>
+                     <l>In her night-hoods, and having cast about</l>
+                     <l>Her black hair, a red Perriwig ſhe got,</l>
+                     <l>Into the Stews—</l>
+                     <l>There many thirſted for encounters tryed,</l>
+                     <l>Departed tir'd with men, not ſatisfied.</l>
+                  </q>
+               </p>
+               <p>
+                  <hi>Semiramis</hi> though ſhe was a wiſe and heroical woman, yet beyond meaſure luſtful. Her hus<g ref="char:EOLhyphen"/>band being dead ſhe inticed ſeveral of her ſoul<g ref="char:EOLhyphen"/>diers to her looſe imbraces, which very men af<g ref="char:EOLhyphen"/>terward ſhe cauſed to be ſlain. At length no<g ref="char:EOLhyphen"/>thing would ſatisfie her but a horſe. The Poets write that <hi>Paſiphae</hi> was in love with a Bull, and ſhe obtained to be miſtreſs of her deſires, by <hi>Dae<g ref="char:EOLhyphen"/>dalus,</hi> who made a woodden Cow and incloſed her therein, and cunningly deceived the Bull. Thus <hi>Ovid</hi> writes ſpeaking of her;
+<q>
+                     <l>How often hath ſhe with an envious eye</l>
+                     <l>Look'd on the Cow that by her Bull did lie?</l>
+                  </q>
+               </p>
+               <p>Yet for all this let us not condemn all mankind for levity, becauſe ſome are ſo. But let us ra<g ref="char:EOLhyphen"/>ther honour and reverence the more thoſe that are honeſt and chaſte, ſince now adayes there are not many of ſuch to be found. To which in<g ref="char:EOLhyphen"/>tent let us immortalize the names of ſome of
+<pb n="33" facs="tcp:171523:33"/>them that have been ſo chaſte, as that they can hardly be taxed for an idle word, much leſs for a vicious deed of that nature. <hi>Marcus Ma<g ref="char:EOLhyphen"/>rullus Spalatenſis</hi> would never ſo much as look on a woman. His ſiſter being very ill, ſent to deſire him to come and ſee her, which he refu<g ref="char:EOLhyphen"/>ſed ſeveral times, till at laſt being much im<g ref="char:EOLhyphen"/>portuned to it, he went, but with his eyes co<g ref="char:EOLhyphen"/>vered, giving her the benefit of hearing him ſpeak, but not of ſeeing him. <hi>Urſinus</hi> had a wife of an excellent beauty and feature, yet he no ſooner took upon him an office in the Church, but he vowed never to ſee her more, which ac<g ref="char:EOLhyphen"/>cordingly he performed. There lived at <hi>Rome</hi> one <hi>Paulina,</hi> a woman no leſs vertuous then no<g ref="char:EOLhyphen"/>ble, nor rich then fair; ſhe was married to <hi>Sa<g ref="char:EOLhyphen"/>turninus</hi> a worthy man, worthy of ſo good a wife. It happened that <hi>Decius Mundus</hi> fell in love with her, but had withall but ſmall hopes to corrupt her with bribes, ſince ſhe was rich, and a hater of vice. Yet for all that he attem<g ref="char:EOLhyphen"/>pted the thing, by offering her three hundred pounds for a nights lodging; yet th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s nothing ſhook her modeſty. Since this would not do, he bethought himſelf of another ſtratagem, which was this: He obſerved that of all the Gods in <hi>Rome, Paulina</hi> moſt of all worſhipped the God <hi>Iſis.</hi> Whereupon he ſpeedily repaired to this Temple, and there bribed the Prieſts with a large ſumme of money to aſſiſt him in his enter<g ref="char:EOLhyphen"/>priſe. They conſent; one of them preſently went to <hi>Paulina,</hi> and tells her that the God <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſis</hi> was much taken with her beauty, and that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he deſired that very night her company. She
+<pb n="34" facs="tcp:171523:34"/>grants the requeſt with abundance of joy, that <hi>Iſis</hi> ſhould think her worthy of her company. She imparts the buſineſs to her husband, and he is willing likewiſe. Whereupon ſhe makes all ſpeedy haſte to the Temple, where being come, the Prieſts conduct her into the place where <hi>Mundus</hi> lay hid, telling her that there ſhe muſt expect <hi>Iſis;</hi> where being no ſooner en<g ref="char:EOLhyphen"/>tred, and the Prieſts departed, but <hi>Mundus</hi> falls to his imbraces, in which they enjoyed extraor<g ref="char:EOLhyphen"/>dinary pleaſures, becauſe the one had her he ſo long longed and thirſted for; the other, as ſup<g ref="char:EOLhyphen"/>poſing ſhe was in the arms of a God. In the morning ſhe returnes home, (not imagining any fallacy) and relates all the pleaſures to her husband. But two or three dayes after, <hi>Mundus</hi> meets her and tells her, that he cared not if <hi>Mundus</hi> was deſpiſed, upon condition he may be loved as <hi>Iſis.</hi> She now fully underſtands the deceit, and imparts it to her husband, with ſhowres of tears and millions of ſighes and groans, withall making him ſwear to he reven<g ref="char:EOLhyphen"/>ged on all the competitors of this plot, who ac<g ref="char:EOLhyphen"/>cordingly was; for being inraged, he cauſed <hi>Mundus</hi> and all the Prieſts to be ſlain.</p>
+            </div>
+            <div type="part">
+               <pb n="35" facs="tcp:171523:34"/>
+               <head>At what age is a wife to be choſen, that ſhe might be fit for ge<g ref="char:EOLhyphen"/>neration.</head>
+               <p>COncerning this point, ſo many men ſo many minds. <hi>Xenophon</hi> thinks the fourteenth year to be the beſt. For at that time of the hairs about the pubes begin to grow, and the courſes flow, which by reaſon they cauſe a titillation in thoſe parts, they infuſe into them a deſire of marrying. Others object againſt this opinion, that every beginning is weak and imperfect, and therefore unfit for conception; Take <hi>Plato's</hi> counſel then to decide all controverſies of this nature, which is to ſearch (by inſpection) the young man &amp; the maid, whether they are capable to enter loves liſts. At <hi>Cynthia</hi> there is a Temple where the couple that intends to be married, meet, and there the Prieſt views them naked, and ſo ac<g ref="char:EOLhyphen"/>cordingly judgeth of their ability for marriage. It would be well (in ſome reſpect) if we had this cuſtome here, if it were for nothing but to prevent making ſo many cuckolds in a year. Now to avoid all ſuſpicion, it would be far better for maids to ſtay till they are eighteen years of age before they think of performing hy<g ref="char:EOLhyphen"/>meneal rites, for then to be ſure there can be nothing wanting in nature, which may be re<g ref="char:EOLhyphen"/>quired for the conception of man-kind. I can<g ref="char:EOLhyphen"/>not allow that a man of the ſame age ſhould in<g ref="char:EOLhyphen"/>tend a married life; becauſe as it is fourteen
+<pb n="36" facs="tcp:171523:35"/>years before he bears ſeed, ſo it is commonly one and twenty before it partakes of a true ge<g ref="char:EOLhyphen"/>nerative faculty. As it is convenient at this age to marry, ſo it will be improper for him to ſtay much longer.</p>
+               <q xml:lang="lat">
+                  <l>Turpe ſenex miles, turpe ſenilis amor.</l>
+               </q>
+               <q>
+                  <l>An aged ſouldier's baſe we all confeſs,</l>
+                  <l>And an old lover is but little leſs.</l>
+               </q>
+               <p>Not onely unſeemly, ridiculous, and filthy, but alſo obnoxious to himſelf, wife and iſſue. To himſelf; for he ſhall find old age ſteal upon him faſter by the enjoyment of a wife one year, then if he lived ten years without one. Second<g ref="char:EOLhyphen"/>ly to his wife; for what is more lothſome then his iſſues, ſpittings, night-coughs, ſtinking breath? but that which is worſt of all to her, his coldneſs to the exerciſe of <hi>Venus.</hi> Laſtly, to his children; for his ſeed is without ſpirits. In brief, he is nothing but a diſeaſe, how can then his off-ſpring be healthful? Therefore let thoſe that intend to marry, be cautious that there be not too great diſparity of age between them.</p>
+            </div>
+            <div type="part">
+               <pb n="37" facs="tcp:171523:35"/>
+               <head>Concerning a mans Genitals, and of their apt conformation.</head>
+               <p>SInce that a man excels a woman in all things, let us deſcribe what belongs to him, before we handle her ſecrets. Nature hath beſtowed on man a Yard and two Teſticles, for the ac<g ref="char:EOLhyphen"/>compliſhment of that great and wonderful work of Generation: which two parts are ſo conjoyn<g ref="char:EOLhyphen"/>ed by nature, that by their ſeparation, they become altogether uſeleſs. In the firſt place let us ſpeak of the Yard; in ſo doing we may take into conſideration its nature, diſpoſition and forme. By the potency, or impotency, fit<g ref="char:EOLhyphen"/>neſs or unfitneſs of this inſtrument, is the tie of wedlock infringed or preſerved. The Anci<g ref="char:EOLhyphen"/>ents, that they might expreſs the eſteem of it, they were wont to paint the form and ſhape of it in all places of reſort. The Ethnicks uſed to hang the picture of the privy members about their childrens necks, to keep them from be<g ref="char:EOLhyphen"/>ing bewitched, and did place them in their gardens to make them fruitful.</p>
+               <p>Let us now treat of the Anatomical part of the Yard, examining its ſubſtance through e<g ref="char:EOLhyphen"/>very particle. The Latines have variouſly na<g ref="char:EOLhyphen"/>med that part of a man, whoſe beginning is pla<g ref="char:EOLhyphen"/>ced at the utmoſt end, and ſo juts out of the lower part of the belly. Theſe are the names they uſually call it by, <hi>Penis, Coles, Veretrum, Virga, Verpa, Scapus, Priapus, Caules, Mutonis,
+<pb n="38" facs="tcp:171523:36"/>Menta, Mentula, Phallus, &amp; virile pudendum.</hi> This thing that hath ſo many names, is not a ſimple body, but compoſed of divers particles. It is of a ſinewy ſubſtance, long, pendulous, hollow, and very ſpungy, except in the glans, or, nut of the yard, which is void of all humour, and onely fit for ejaculation of the ſeed. In the lower ſide of the yard is placed a hollow nerve, which is both a paſſage for the ſeed and urine; this ſometimes is filled with a flatuous humour or ſpirit which extends the yard, and cauſes its erection. About the pubes grows hairs, becauſe thoſe parts are very hot and moiſt, and theſe ſerve for a covering and an ornament. The glans alwayes reſerves its magnitude, though the yard is inflamed and ſwelled by venereal ſpirits. The prepuce which ſerves as a cap to cover the head of the yard, keeps it from all outward inconveniencs; as duſt, &amp;c. It is a dangerous thing if the prepuce be cut, becauſe it cannot be rejoyn'd. If you deſire a longer deſcription of theſe parts, conſult with Anthro<g ref="char:EOLhyphen"/>pographers.</p>
+            </div>
+            <div type="part">
+               <pb n="39" facs="tcp:171523:36"/>
+               <head>From whence proceeds the erection of the Yard.</head>
+               <p>ITs erected ſometimes from wind and ſpirits, ſometimes from the heat of the Arteries, which are in the ſpermatick veſſels. The truth is, it is as great a wonder it ſhould riſe to ſo great a weight, from ſo ſmall a thing, as when it ſtands not; as it is for a womans womb to open ſo large, at the very time of travail, as to give room enough for the child to iſſue out, and yet all the time before it is ſo cloſe ſhut, as that the point of a needle cannot enter it. The yard being made of a nervous and ſpungy quality, quickly diſtends it ſelf from the affluence of ſpi<g ref="char:EOLhyphen"/>rits proceeding from the ſeed. And therefore it is that it hangs its head as ſoon as ever the ſeed is evacuated; becauſe with the ſeed flows abun<g ref="char:EOLunhyphen"/>dance of wind and ſpirits, which are the cauſe of its ſtiff ſtanding.</p>
+            </div>
+            <div type="part">
+               <pb n="40" facs="tcp:171523:37"/>
+               <head>Whether a too long or a too ſhort Yard be obnoxious to generation.</head>
+               <p>A Mean in all things is the beſt thing in the world. To over-do or under-do in effect is one and the ſame fault. Wherefore it is not to be queſtioned, a too long yard is not good. For it is a long while before it doth ſtand, and doth not long remain ſo, for the ſpirits are not able to ſupport ſo great a weight. Again, it is ſo long before ſeed comes through it, (and then too much cooled) that the woman hath ſpent her ſelf a long time before the mans iſſueth, and ſo renders that act ineffectual; to make work, both ſeeds ſhould meet.</p>
+               <q>
+                  <l>Let not thy miſtreſs uſe too ſwift a ſail,</l>
+                  <l>Nor let thy haste beyond her speed prevail:</l>
+                  <l>Both keep one courſe, your oars together ſtrike,</l>
+                  <l>Your journie's one, then make your pace alike.</l>
+                  <l>Tog ther ſtrive, let both meet at the mark,</l>
+                  <l>You may no queſtion groap it in the dark.</l>
+                  <l>Then is the complement of ſweet content,</l>
+                  <l>When both at once ſtrive, both at once are spent.</l>
+                  <bibl>
+                     <hi>Ovid.</hi>
+                  </bibl>
+               </q>
+               <p>On the otherſide (in my opinion) the ſhort yard leaſt of the two to be endured. Ask the queſti<g ref="char:EOLhyphen"/>on of good honeſt women, that know by ex<g ref="char:EOLhyphen"/>perience what I ſay to be true. Becauſe (though it ſtands more ſtiff, and ejects the ſeed more vi<g ref="char:EOLhyphen"/>gorouſly) yet it reaches not ſo far as ſufficiently to provoke a womans luſt and ſeed.</p>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:171523:37"/>
+               <head>How to inlarge the pudenda to a fit proportion, in caſe it be neither long, nor thick enough.</head>
+               <p>ITs nothing worth if thoſe parts partake not of a due thickneſs as well as length; the for<g ref="char:EOLhyphen"/>mer being more uſeful and delightful to a wo<g ref="char:EOLhyphen"/>man, as <hi>Avicen</hi> will have it. Wherefore that there may may be an equality of them both, let us preſcribe ſome helps. The Arabians coun<g ref="char:EOLhyphen"/>ſel in this buſineſs to uſe hot oyles or fat things, or an infuſion of good ſtore of milk, for milk being fattiſh, and of a thick ſubſtance, it inſi<g ref="char:EOLhyphen"/>nuates it ſelf into the pores, and by that means obſtructs them and hinders the exhalation of ſpirits through them. Milk hath many more excellent qualities conducing very much to the inlarging of the privities. Ground wormes ſteeped in wine, then dried, and laſtly pound<g ref="char:EOLhyphen"/>ed with the oyl of ſweet Almonds, is an excel<g ref="char:EOLhyphen"/>lent ſecret for this purpoſe: In the ſame man<g ref="char:EOLhyphen"/>ner may be uſed Leeches. The receipt of <hi>Rhazes</hi> is this. Take an Indian nut, and open it, and you ſhall find in it a ſweet water, then take a Leech and put into it, and let it be incloſed for eight dayes, then take it out and pound it, and anoint the yard. <hi>Dioſcorides</hi> ſaith, that Cori<g ref="char:EOLhyphen"/>ander is very good for the amplification of the virile parts, for the ſame reaſon that it increa<g ref="char:EOLhyphen"/>ſes ſeed, and incites luſt; but take heed by theſe means that you inlarge them not too much, for the afore-cited reaſons.</p>
+            </div>
+            <div type="part">
+               <pb n="42" facs="tcp:171523:38"/>
+               <head>How to ſhorten the Yard being too long.</head>
+               <p>AS it will be a hard matter for me to per<g ref="char:EOLhyphen"/>ſwade thoſe men that are thus qualified, to diminiſh this member, becauſe moſt glory in its longitude and magnitude; ſo I am ſure to diſpleaſe well-affected women, in preſcribing things ſo contrary to the exceſs of pleaſure. Yet ſince I look more to the good of poſterity, then to ſatisfie their fooliſh humours, let me tell you that are troubled, and would be cured of this redundancy, that you muſt for a time keep a ſpare diet. This is the firſt remedy in all preter<g ref="char:EOLhyphen"/>natural tumours, or redundant affections. He muſt likewiſe for a time bid adieu to wine, and to all things that increaſe luſt, as Pine apples, Almonds, pigeons, and all hot and flatuous things, but rather eat Hens, Lettice, &amp;c. and all cold things. Copulation will diminiſh the Yard very much, but thats onely a medicine lawfully uſed by married men. Many things more might be alledged, were it not that moſt affect rather things that will increaſe, then leſ<g ref="char:EOLhyphen"/>ſen their privy members.</p>
+            </div>
+            <div type="part">
+               <pb n="43" facs="tcp:171523:38"/>
+               <head>Of venereal impotency.</head>
+               <p>THis may proceed from three cauſes. Either firſt, from the want of ſeed, or from its coldneſs. Secondly, from the ſtones, either from the want of them, or elſe being too little and cold; by reaſon of which they either re<g ref="char:EOLhyphen"/>ceive not ſeed, or elſe work it not ſufficiently. Or laſtly from ſome defect of the Yard, as there may be many. If it proceed from the firſt di<g ref="char:EOLhyphen"/>ſtemper, there is nothing more to be done then to take things that are hot, and that increaſe luſt; as ſtrong bear and wine. <hi>Ovid</hi> in his Art of Loving ſaith thus much of it:
+<q>
+                     <l>In wine is luſt and wanton youths deſire;</l>
+                     <l>Joyn wine to love, and you add fire to fire.</l>
+                  </q>
+               </p>
+               <p>If the cauſe lie in the Yard, then let that part be corroborated with hot and dry things, as Muſhromes, Turbith, Coloquintida, Simp. Comp. Diaphenicon, Hiera, Cocchiae aggrega<g ref="char:EOLhyphen"/>tivae. There are again many things that dry by degrees; as Guaicum, Sarſaparilla, Saſ<g ref="char:EOLhyphen"/>ſafras, Maſtick, Juniper. Theſe things muſt be applied outwardly; a Bulls gall, a Hares gall, the decoction of wilde Cucumers and the oyle of Nutmegs, with which the genicals are to be anointed, which will wonderfully corroborate and comfort them.</p>
+            </div>
+            <div type="part">
+               <pb n="44" facs="tcp:171523:39"/>
+               <head>Concerning ſome men that have had wonderful great Genitals.</head>
+               <p>SUch men the Ancients called <hi>Onobeli,</hi> of which kind of men Hiſtories make often mention. I knew a boy that had ſuch huge great privi<g ref="char:EOLhyphen"/>ties, as that where ever he went he was pointed at for them. His yard would be a long time before it ſtood, but being once erected he could carry upon it thirty pound weight. Be<g ref="char:EOLhyphen"/>ing a merry fellow, he would often-times ſhew his companions his ſix-foot-long — not without their admiration and laughter. <hi>Pe<g ref="char:EOLhyphen"/>tronius</hi> makes mention of one that had ſo large and long a Priapus, as that all the reſt of his body ſeemed but as an appendix to it. You may ask the queſtion, how theſe men were known to be ſo qualified? The Ancients had publick baths where the men went in naked, ſo that if any appeared to have greater members then ordina<g ref="char:EOLhyphen"/>ry, the ſtanders by gave a great ſhout. So that that doubt is eaſily reſolved. <hi>Phiſippus Haeaſterus</hi> reports in the ſixth Decade of his obſervations, that there was a man in his time had a mon<g ref="char:EOLhyphen"/>ſtrous great Yard full of innumerable warts, juſt like the ſeeds in a bunch of grapes. The top of this mighty thing was as big as the head of a new-born child. The part adjoyning with the ſcrotum, was an ell long. The prepuce drawn back, had the likeneſs of a horſes coller. If you
+<pb n="45" facs="tcp:171523:39"/>deſire a larger deſcription of it, conſult with the Author himſelf, where you may ſee the ſhape of it cut in braſs.</p>
+            </div>
+            <div type="part">
+               <head>Some queſtions concerning the Pudenda.</head>
+               <p>WHy is the Yard compoſed of nerves?</p>
+               <p>Becauſe nerves are ſtrong, and have a very great ſenſe of feeling, and thereby man<g ref="char:EOLhyphen"/>kind injoys the greater ſenſual pleaſure in the venereal act.</p>
+               <p>Why is the Yard fat?</p>
+               <p>Becauſe it might not be any impediment to its erection, the nature of fat being laxative and mollifying; wherefore it is that the fatter a man grows, the leſs becomes his Priapus.</p>
+               <p>Why is he that hath a deſire to piffe un<g ref="char:EOLhyphen"/>able to perform the venereal act, till ſuch time as he hath evacuated his water?</p>
+               <p>Becauſe the pores of the yard being filled with moiſture, they cannot admit of any thing more of that nature.</p>
+               <p>Why is it that there are two holes in a mans yard, the one a paſſage for the water, the other for the ſeed?</p>
+               <p>Becauſe the one helps the way of the other; for were it not ſo, it is to be feared that that paſſage would (by reaſon of ſeldome copu<g ref="char:EOLhyphen"/>lating) be wholly ſtopped up.</p>
+               <pb n="46" facs="tcp:171523:40"/>
+               <p>Why did the Ancients believe that there is a certain kind of ſpell in the pudenda, againſt witchcraft?</p>
+               <p>It may be from an old cuſtome the Italians had, in worſhipping the privities of <hi>Bacchus.</hi> For on his Feſtival day they carried them about; firſt into the fields, and then into the city, where an honeſt Matron did crown them with laurels and gatlands.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the excellency, vertue, and temper of the ſtones.</head>
+               <p>EVen as the chyle in the ventricle; in the li<g ref="char:EOLhyphen"/>ver the bloud; the vital ſpirits in the heart; and the animal in the brain, are concocted for the preſervation of life: ſo for the propagation of mankind, is the ſeed wrought and prepared by the ſtones, or teſticles. They are called ſo from the Latin word <hi>teſtes,</hi> which ſignifie wit<g ref="char:EOLhyphen"/>neſſes; and truly a man (without ſuch witneſ<g ref="char:EOLhyphen"/>ſes) will have bad ſucceſs in his cauſe, if a wo<g ref="char:EOLhyphen"/>man be of the Jury. Theſe are the flower of life, the well-ſprings of generoſity and valour, of heat and of pure bloud. In brief, as without them, the body becomes effeminate, ſo it loſes the moſt part of all the fore-mentioned vertues. Beſides, they are not onely of ſuch ineſtimable value in men, but alſo the ſtones of other crea<g ref="char:EOLhyphen"/>tures. Concerning the uſefulneſs of the Caſtors
+<pb n="47" facs="tcp:171523:40"/>ſtones, there is none ſo ignorant in Phyſick, but knows ſomewhat of their excellent quality. They are hot and dry, and are good againſt any diſeaſe, except a violent feaver. The ſtones of a dung-hill-cock do wonderfully refreſh the body, being eaten, and do increaſe ſeed, for which purpoſe they are uſed by new married people. <hi>Amatus Luſitanus</hi> tells us a notable ſto<g ref="char:EOLhyphen"/>ry of a woman that prepared a diſh of them for her husband, being a man that little uſed her company carnally; but it ſeems theſe ſtones ſo altered his body, that he immediately was troubled with ſuch a priapiſme, as nothing would ſatisfie him till he was in bed with his wife. Into which he was no ſooner entred, but he plied his wife ſo cloſe that ſhe was able to hold out no longer, but ran out of the bed from him, and he after her; but being not able to overtake her, he went into the room where his three maids lay, and went into the bed to them, and begat them all with child. None knows what farther miſchief he would have done had he not been prevented by a Phyſician. The ſtones of a young Pig do won<g ref="char:EOLhyphen"/>derfully help barrenneſs, both in men and wo<g ref="char:EOLhyphen"/>men, and will cauſe them to be fruitful. A Foxes ſtones dried have the ſame vertue. Hor<g ref="char:EOLhyphen"/>ſes ſtones are an excellent thing to bring away the ſecundines of women; <hi>Geſner</hi> knew a man that got his living by helping women by this re<g ref="char:EOLhyphen"/>medy. They are likewiſe very good againſt co<g ref="char:EOLhyphen"/>lical paines, as <hi>Fonſeca</hi> ſaith. The powder of a Bulls ſtones is commended for curing ulcers in the vulva; an Aſſes and Stags for expelling of
+<pb n="48" facs="tcp:171523:41"/>poiſon; a Goats againſt ſhedding the water in the night; a Ganders are excellent good to help conception, immediately after congreſſi<g ref="char:EOLhyphen"/>on; and laſtly a mans teſticles (though they are placed in the laſt rank, yet for their variety of vertue excel all) will make excellent mum<g ref="char:EOLhyphen"/>mie, good againſt all diſeaſes. See more of their vertue in <hi>Crollius,</hi> and the reſt of the Theo<g ref="char:EOLhyphen"/>phraſtians.</p>
+            </div>
+            <div type="part">
+               <head>What may be the reaſon that though a man loveth a woman extraordi<g ref="char:EOLhyphen"/>nary well, yet after the injoy<g ref="char:EOLhyphen"/>ment of her his love grows cold.</head>
+               <p>HOw unhappy are they that are in love! They are alwayes diſtracted with anguiſh and grief, they are ever perplexed with new caſes; they lived a dying life, and a living death. He a long time languiſheth for the poſſeſſion of his dearly beloved, but in a far ſhorter time is ſa<g ref="char:EOLhyphen"/>tiated and glutted with her. The reaſon may be, becauſe being in love, his fancy is perverted, and ſo judges of its effects contrary to what re<g ref="char:EOLhyphen"/>ally it is;
+<q xml:lang="lat">En quod non eſſet, eſſe putaret amor.</q>
+               </p>
+               <pb n="49" facs="tcp:171523:41"/>
+               <p>Beſides, the mind is moſt eagerly bent on that which is forbidden, <hi>(nitimur in vetitum;)</hi> and therefore like a torrent it overflows, and be<g ref="char:EOLhyphen"/>comes more impetuous by oppoſition. Too much liberty in any thing nauſeates the appetite. I have heard of a Gentleman that kept a Lady of pleaſure, allowing her two hundred pounds for yearly maintenance, but would not marry her, becauſe, ſaith he, knowing ſhe is my own I ſhall diſeſteem of her, whereas now I accoſt her every time I come to her as if ſhe was a new miſtreſs. <hi>Cornelius Gallus</hi> profeſſeth, that he was perditly in love with a fair virgin, and could have been willing to have redeemed her life by his, till ſhe yielded to his unlawful imbraces, and then he ſlighted her. Hence <hi>Auſonius;</hi>
+                  <q xml:lang="lat">
+                     <l>Hanc volo quae non vult, illam que vult ego nolo.</l>
+                  </q>
+                  <q>
+                     <l>She that is willing to love me,</l>
+                     <l>To her unwilling will I be.</l>
+                  </q>
+               </p>
+               <p>And a little after he proceeds;
+<q xml:lang="lat">
+                     <l>Oblatas sperno illecebras, detrecto negatas.</l>
+                  </q>
+                  <q>
+                     <l>Proffered pleaſures I defie,</l>
+                     <l>Give me her that doth deny.</l>
+                  </q>
+               </p>
+               <p>If love be onely a deſire, as ſome ſay it is, then deſire is no deſire when it is ſatisfied.</p>
+            </div>
+            <div type="part">
+               <pb n="50" facs="tcp:171523:42"/>
+               <head>Concerning caſtrating Men and Women.</head>
+               <p>ITs a cuſtome among great Princes, but eſpe<g ref="char:EOLhyphen"/>cially among the Turkiſh Emperours, to have Eunuchs to wait upon their wives, for fear leſt their beds might be diſhonoured. In theſe our times its uſual to cut children when they are young, that they may become the better Mu<g ref="char:EOLhyphen"/>ſicians, for by that means they have a more clear and harmonical voice. Caſtration is ef<g ref="char:EOLhyphen"/>fected either by colliſion or exciſion: Colliſi<g ref="char:EOLhyphen"/>on is the compreſſing the ſtones, and ſo ſquee<g ref="char:EOLhyphen"/>zing out the ſubſtance of them. By Exciſion, when you depreſs the ſcrotum with the teſticles, and ſo make an inciſion on the line, and take them out clearly both together. But <hi>Paulus Aegineta</hi> hath a better and eaſier way, which is by pricking with a ſharp inſtrument the Epidi<g ref="char:EOLhyphen"/>dymis, which is the ſecond outermoſt skin that covers the teſticles, and knits the didymos to the ſeminal paſſages, by which means the teſticles are hindred of transferring the ſeed. Its a far harder matter to Eunuchize women, yet in for<g ref="char:EOLhyphen"/>mer and latter times it hath been accompliſh<g ref="char:EOLhyphen"/>ed. <hi>Antonius Ulmus</hi> ſaith it may be done by cut<g ref="char:EOLhyphen"/>ting the Nympha, which is the throne of love and luſt. Thus many of the Egyptian women have been uſed by reaſon of their untamed luſt. Now properly to caſtrate a woman, is to take out her womb, for the doing of which, ſince it
+<pb n="51" facs="tcp:171523:42"/>is ſo hard and dangerous, I dare not give any directions.</p>
+            </div>
+            <div type="part">
+               <head>A particular relation of ſuch things as will increaſe ſeed and luſt.</head>
+               <p>ALl ſorts of round roots, eſpecially Scallions, Satyrion, Struthium, Bunguen, Beets, Ca<g ref="char:EOLhyphen"/>pars, Acoras, &amp; Squils, &amp;c. likewiſe al ſalt things, and ſhel-fiſh do augment very much the ſeed, ſo doth alſo Goats milk. <hi>Theophraſtus</hi> reports, that that there was an Indian brought him an herb, that not onely the eating, but even the touch<g ref="char:EOLhyphen"/>ing of it would excite a man to luſt ſo much, as to cauſe him to copulate as often as he pleaſed. He adds more, that ſome that have eaten it, have acted venereally twelve times in the ſpace of an hour. This Indian confeſſeth, that by it he ſpent himſelf ſeventy times, till at laſt his ſeed iſſued by a drop, and laſt of all came his very bloud.</p>
+               <p>
+                  <hi>Johannes Shenkins</hi> writes of another herb which grows on Mount <hi>Atlas,</hi> that increaſeth luſt beyond any credit. Moreover he ſaith that if a maid ſhould chance to piſs on it, ſhe would as infallibly loſe her maiden-head, as if ſhe lay with a man. A multitude of herbs more there are that have this quality in them, which are ſo many that they would be too tedious for our intended diſcourſe to deſcribe.</p>
+               <pb n="52" facs="tcp:171523:43"/>
+               <p>Wherefore to conclude this ſubject, take two or three receipts which are great provokers of luſt, and ſtrengtheners of the body,</p>
+               <floatingText xml:lang="eng" type="recipe">
+                  <body>
+                     <p>
+                        <hi>Recip.</hi> Mellis anacardi, mellis apum, &amp; bu<g ref="char:EOLhyphen"/>tiri vacicini ana.</p>
+                     <p>Let them boile, and ſo let them be drunk in wine. Let there be made alſo a ſuppoſitory <hi>ex adipe anatis, &amp; granis cotti, &amp; pyretro in oleo de nuce Indica.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="recipe">
+                  <body>
+                     <list>
+                        <item>
+                           <hi>Arnaldus</hi> pills Recip.
+<list>
+                              <item>
+                                 <hi>Faeniculi aſsi</hi>
+                              </item>
+                              <item>
+                                 <hi>ſeminis erucae </hi>
+                              </item>
+                           </list> 
+                           <hi>ana. unc.</hi> 2.</item>
+                        <item>
+                           <hi>Arnaldus</hi> pills <hi>Tere lacte vaccino.</hi>
+                        </item>
+                     </list>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="recipe">
+                  <body>
+                     <p>
+                        <hi>Fallopius</hi> his electuary to ſtrengthen and cauſe a titillation in the privities.</p>
+                     <list>
+                        <item>Recip. <hi>Noctilucas praeparat. cum</hi> 4.</item>
+                        <item>
+                           <list>
+                              <item>
+                                 <hi>Specimen Aramat.</hi>
+                              </item>
+                              <item>
+                                 <hi>Diambrae.</hi>
+                              </item>
+                           </list>
+                           <hi>ros an. unc.</hi> 1.</item>
+                        <item>
+                           <hi>Pulpae carnis nucis Indicae unc.</hi> 5.</item>
+                        <item>
+                           <hi>Seminum cinarae excortis unc.</hi> 1.</item>
+                     </list>
+                  </body>
+               </floatingText>
+               <p>Let this be taken after dinner and after ſupper. I ſhall conclude with <hi>Ovids</hi> receipt in his Art of Loving.</p>
+               <q>
+                  <l>Pepper with biting nettle-ſeed pray mix,</l>
+                  <l>With Bastard Pellitory ſome few ſticks;</l>
+                  <l>Which beaten, and in cold wine drunk up clear,</l>
+                  <l>Make sprightfull men aloft their ſtandards bear.</l>
+               </q>
+            </div>
+            <div type="part">
+               <pb n="53" facs="tcp:171523:43"/>
+               <head>A brief deſcription of a Womans Genitalls.</head>
+               <p>THere are four things ſubſervient to her ſecret parts. Spermatical veſſels, both preparing and carrying, the Teſticles, the Womb, and the Vulva. As in men, ſo in women there are found four veſſels preparing the ſeed; name<g ref="char:EOLhyphen"/>ly, two veins, and two arteries. The teſticles are inwardly placed to the ſides of the <hi>Vulva,</hi> becauſe they ſhould be more heated; they are leſſe then a mans, being broad, and glandulous, thin and moiſt. Whereas a mans ſtones are covered with four tunicles, a womans are onely with one. Theſe in a woman by reaſon of a certain diſeaſe will grow as big as a mans head; ſo ſaith <hi>Schenkius.</hi>
+               </p>
+               <p>The womb is like a fruitful field wonderfully propagating and husbanding the ſeed that is ſown in it. Its situation is in the Hypogaſtrium, between the bladder and the <hi>rectum inteſtinum.</hi> Its magnitude is various according to the age of the perſon, temperament, venereal uſe, talneſs of the body, or barrenneſs. The wombs of vir<g ref="char:EOLhyphen"/>gins and ſterile women are much leſs then pregnant women, or whores. Its ſhape is ſome<g ref="char:EOLhyphen"/>what long, yet round in the forme of a great pear. For the ſubſtance of it, it is mem<g ref="char:EOLhyphen"/>branous, for its more commodious ſhutting at conception, and likewiſe for the inlargement
+<pb n="54" facs="tcp:171523:44"/>of it, as the child within increaſeth in growth. The womb is divided into four parts, <hi>viz.</hi> the bottom, the inner mouth, the neek of the womb, and laſtly the orifice of the neck. Thoſe parts that are obvious to the eye, are the pubes or hairy region, <hi>Venus</hi> hill, and the two lips ſeparated by a ſlit or ſcotch; within which lips lie latent the Nymphae, four caruncles, and the paſſage for the urine. The neck of the womb is all that which belongs to the inmoſt mouth, and its a long chanel, like the ſcabbard of a dagger, which is the receptacle of the yard to ſheath it ſelf. The inner mouth is that which receives the ſeed, and then immediately ſhuts ſo cloſe, as if it was an entire body. The body of the womb is that which contains and cheriſheth the ſeed, ſome have called theſe privy parts a Lion: Firſt becauſe they and that beaſt have much alike the ſame ſmell. Laſtly, becauſe as that beaſt is very greedy and deſirous of a mans bloud; ſo is the womb of his ſeed, which is no<g ref="char:EOLhyphen"/>thing elſe but pure and refined bloud.</p>
+            </div>
+            <div type="part">
+               <pb n="55" facs="tcp:171523:44"/>
+               <head>Concerning the Clytoris.</head>
+               <p>A Little in the cleft of the Vulva, is the Cly<g ref="char:EOLhyphen"/>toris, its ſubſtance is fleſhy, ariſing out of the mouth of the womb, almoſt filling the empty ſpace of the pudenda. It is ſomewhat longer in Summer then in Winter; for by rea<g ref="char:EOLhyphen"/>ſon of the heat, it inlarges it ſelf, nay many times it iſſueth out, metamorphoſing the woman into a man. This is the ſeat of love and plea<g ref="char:EOLhyphen"/>ſure; for by a mutual contrition of the mans yard with it, their ſeed is provoked, and ſo meet for the propagation of mankind.</p>
+            </div>
+            <div type="part">
+               <head>How to contract the Vulva being too large and wide.</head>
+               <p>WHen this is too large, it receives the yard with too great a facility; hence both par<g ref="char:EOLhyphen"/>ties are inſenſible of its progreſs, and by that means there is little or no ſeed ejected. But by the way let us examine from whence this amplitude proceeds. Upon conſideration we ſhall find it may happen from immoderate uſe of venery, which we may conjecture from con<g ref="char:EOLhyphen"/>traries: for if widows ſtay long without a huſ<g ref="char:EOLhyphen"/>band, their privities will ſo cloſe, as that they are hardly diſtinguiſhable from maids. When nature is at reſt, it reſtores all the unity of the
+<pb n="56" facs="tcp:171523:45"/>parts. Secondly, it may ariſe, from martying a man that hath great members. Laſtly, by a hard delivery; when the child is ſignally great, it breaks its way: yet this may be a natural diſ<g ref="char:EOLhyphen"/>poſition. All adſtringing things are good againſt this cachexie, as a compoſitory <hi>ex Cypero, Xilo<g ref="char:EOLhyphen"/>ale, Ennula, Carriophillis, Ramich, &amp; Moſchi;</hi> Let theſe be pounded and taken with honey. Like<g ref="char:EOLhyphen"/>wiſe <hi>decoctio conſolida majoris,</hi> is excellent. Theſe with many more, whores uſe to cheat young gulls withall, when they promiſe them their maidenheads. Take this receipt as the beſt that can be uſed:
+<q xml:lang="lat">
+                     <hi>Recip.</hi> Aluminis, lapidis Gagatis vel Thracii nitri ana drach. <hi>1.</hi> Pulveris gallorum, bacca<g ref="char:EOLhyphen"/>rum hederae exiccatarum, Babuſtionum, Corticum, granatorum, atramenti ſutorii, rubi, ana drach. <hi>2.</hi> ſucci acaciae, ſorborum, agreſtris oleae, ana. unc. <hi>1.</hi> S. vini rubri unc. <hi>2.</hi> S. miſce omnia —</q>
+               </p>
+               <p>Boyl theſe over a ſlow fire, and put them on a cloth in proſthema. Theſe will ſtrengthen and contract wonderfully any orifice. But be ſure for a time let the woman abſtain from her hus<g ref="char:EOLhyphen"/>bands company. For in every operation of na<g ref="char:EOLhyphen"/>ture, reſt is required; and therefore it is that an ulcer in the lights is never cured, nor conſo<g ref="char:EOLhyphen"/>lidated, by reaſon of their continual motion. Perhaps ſome curious perſon would be deſirous to know ſome outward ſigns to diſcern ſuch men and women. The woman commonly hath a wide mouth, the man a great noſe, as <hi>Martial</hi> ſaith:
+<pb n="57" facs="tcp:171523:45"/>
+                  <q xml:lang="lat">
+                     <l>Mentula tam magna est, tantus tibi, Pipile, naſus.</l>
+                  </q>
+                  <q>
+                     <l>
+                        <hi>O Pipilus,</hi> thy noſe ſo great and thick</l>
+                     <l>Denotes how great's thy ſtiff-neckt-ſtanding prick.</l>
+                  </q>
+               </p>
+               <p>A womans long foot bewrayes her long cleft, but a mans great hand ſhews his good mentulous qualifications; as likewiſe doth his long eye<g ref="char:EOLhyphen"/>brows, but in a woman her long face; theſe marks ſeldome fail.</p>
+            </div>
+            <div type="part">
+               <head>What is that which is infringed at the firſt venereal act; as alſo ſome ſigns of Virginity.</head>
+               <p>IT is the opinion of moſt that there is a mem<g ref="char:EOLhyphen"/>brane which is drawn acroſs the matrix of virgins, and called by the name of Hymen. From thence did the Gentiles derive the name of the God of marriage, by reduplicating Hy<g ref="char:EOLhyphen"/>men, Hymenaeus. So <hi>Catullus</hi> calls him in his nuptial ſong:
+<q xml:lang="lat">
+                     <l>Jam veniet virgo, jam dicitur Hymenaeus:</l>
+                     <l>Hymen, ô Hymenaee, Hymen ades, ô Hymenaee.</l>
+                  </q>
+               </p>
+               <p>The Jews were wont at the marriage of any perſon, to put fine clothes in the bed where they were to lie, for the reception of the bloud that uſually flows at the breaking the Hy<g ref="char:EOLhyphen"/>men: which clothes they were wont to ſhew
+<pb n="58" facs="tcp:171523:46"/>to the Parents, as a ſign of the loſs of an incor<g ref="char:EOLhyphen"/>rupted virginity. Such a cuſtome had the Ro<g ref="char:EOLhyphen"/>mans, as it is recited by <hi>Claudian</hi> in his Epi<g ref="char:EOLhyphen"/>thalamie:
+<q xml:lang="lat">
+                     <l>Et veſtes Tyrio ſanguine fulgidas,</l>
+                     <l>Alter virgineus nobilitet cruor.</l>
+                     <l>Tunc victor madido proſiliat thoro,</l>
+                     <l>Nocturni referens vulnera praelii.</l>
+                  </q>
+               </p>
+               <p>This membrane which is thus broken, yields a greater or ſmaller quantity of bloud, accord<g ref="char:EOLhyphen"/>ing to the largeneſs and fulneſs, or ſmalneſs and emptineſs of the veines. Some have immediate<g ref="char:EOLunhyphen"/>ly died by the greatneſs of the flux of bloud. And this is the reaſon that virgins ſuffer pain, (nay men too according to the ſtrength of the Hymen) by loſing their maiden heads. Now by way of caution, let no man think his new<g ref="char:EOLhyphen"/>married wife to be heretofore defloured if he finds not this Engin: For by chance it may be broken many wayes, as by a petulant humour, or a great fall, &amp;c. In many there is no ſuch thing to be found from their very births. Yet let not this be an inducement to wantons (be<g ref="char:EOLhyphen"/>cauſe ſuch things may happen) therefore to ſet up their virginities as a but for every mans ar<g ref="char:EOLhyphen"/>row to hit. For this being once loſt, modeſty is likewiſe loſt; one of the two I am ſure, if not both, muſt never be expected to be found <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="59" facs="tcp:171523:46"/>
+               <head>Whether there be any Signs of cor<g ref="char:EOLhyphen"/>rupted virginity.</head>
+               <p>THere are many indiciums which too too ma<g ref="char:EOLhyphen"/>nifeſtly publiſh infallible marks of a loſt virginity. For example, Impudence; as it is fear and ſhame that keeps wanton girles within their bounds, ſo baniſhing theſe two out of their thoughts, they value not their chaſtities, pre<g ref="char:EOLhyphen"/>ferring rather to ſplit themſelves againſt the rocks of pleaſure, then to ſail in the calme ſea of vertue and continency. But to return to our purpoſe; in the next place if you obſerve and perceive that the top of the noſe is divided, ſeeming forked, (if you will credit <hi>Michael Scotus</hi>) its an unchaſte ſign. The Ethnicks had this obſervation of a chaſte perſon: When any couple was married, on the firſt night they mea<g ref="char:EOLhyphen"/>ſured her neck with a thred, and if next day her neck appeared bigger, then they deemed her an unſpotted woman. So <hi>Catullus</hi> ſings on the Epithalamie of <hi>Peleus</hi> and <hi>Thetis.</hi>
+               </p>
+               <q xml:lang="lat">
+                  <l>Non illam nutrix orienti luce reviſens.</l>
+                  <l>Hesterno collum poterit circundare filo.</l>
+               </q>
+               <q>
+                  <l>No <gap reason="illegible" resp="#UOM" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> ariſing from her bed,</l>
+                  <l>Her neck <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>nd compaſs with fore-tried thred.</l>
+               </q>
+               <p>Some ſay that deflowred virgins cannot indure the ſmell of the Lilly, as being the Hierogly<g ref="char:EOLhyphen"/>phick
+<pb n="60" facs="tcp:171523:47"/>of virginity. Others ſay, that Bees will preſently ſmell out unchaſte perſons; for they are great lovers of chaſtity. <hi>Jo. Baptiſta Porta</hi> ſaith, that if jet be taken and reduced into pow<g ref="char:EOLhyphen"/>der, then ſearcht, and laſtly drank in wine or water, if preſently the woman cannot hold her water ſhe is no virgin. <hi>Albertus Magnus</hi> writes, that if you take a Load-ſtone, and lay it under the head of your wife, if ſhe preſently imbraces you, then will ſhe ever prove faithful unto you. Whether <hi>Comma</hi> was naturally conſtant, or for<g ref="char:EOLhyphen"/>ced to it, I know not; but it is reported this foreſaid laſt experiment was tried upon her, by her husband, and ſhe proved ſo loving to him, that for her non-pareil fidelity to her extinct husband, be pleaſed to take her ſtory in brief. She was very fair, and withall very vertuous: She was married to a rich and pious man named <hi>Synatus.</hi> There was one <hi>Synorax</hi> (that was his neighbour) envying his felicity, attempted all means to allure this modeſt matron. But ſee<g ref="char:EOLhyphen"/>ing that all his endeavours came to nothing, being ſpurred on with anger and deſpair, ſlew <hi>Synatus,</hi> thereby hoping to obtain his deſires; which accordingly he did; For a little after the murder committed, be proſecutes her again with freſh importunities of love, and at laſt gain'd her conſent to marry her. The marri<g ref="char:EOLhyphen"/>age-day is prefixt, a great feaſt is prepared, and he with abundance of jollity welcome<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his friends. About the middle of dinner, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> drinks to him (with a great deal of alacrity) in a cup of poyſon, drinking off the one half, and preſenting him with the other halfe, which
+<pb n="61" facs="tcp:171523:47"/>he no ſooner drank off, but ſhe ſpake out aloud, calling often on the name of her deceaſed hus<g ref="char:EOLhyphen"/>band, ſaying, that ſince his death, for his ſake, ſhe had lived a ſorrowful life, but now being revenged on his and her murderer, ſhe died joyfully. An example rarely to be parallel'd in theſe our times.</p>
+            </div>
+            <div type="part">
+               <head>Concerning night-pollutions.</head>
+               <p>WHy do night pollutions afford more plea<g ref="char:EOLhyphen"/>ſure, and do more debilitate then a mans ſpontaneus copulating with a woman?</p>
+               <p>Becauſe there flowes (when a man is aſleep) a greater quantity of ſeed then if he was awake. For being at reſt, nature recollects the ſpirits, and ſends down a greater quantity of heat to the bowels. Whileſt one is awake the ſpirits are diſperſed, but congregated when the ſenſes are at eaſe. And hence it is that many men are very ſubject to this manner of pollution. No doubt women are troubled in the ſame manner. <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi> is of the opinion that they do ejaculate their ſeed in their ſleep, and afterwards have the ſame affections as men have, namely, diſſolu<g ref="char:EOLhyphen"/>tion and weakneſs, &amp;c.</p>
+            </div>
+            <div type="part">
+               <pb n="62" facs="tcp:171523:48"/>
+               <head>He that intends copulation, ought to be free from turbulent paſsions of the mind, and vain phantaſmes.</head>
+               <p>THe mind muſt not then be troubled, either with fear, anger, wrath, grief, or ſuch like perturbations; for <hi>Venus</hi> requires calme and ſerene minds, which muſt ſit at her table; ſuch as are wholly compoſed of tranquillity, but alie<g ref="char:EOLhyphen"/>nated from all ſorrow and ſadneſs. According to the Poet, ſpeaking of <hi>Venus:</hi>
+                  <q xml:lang="lat">
+                     <l>Non ſolet in maeſtos illa venire thoros.</l>
+                  </q>
+                  <q>
+                     <l>Fair <hi>Venus</hi> never goes to bed</l>
+                     <l>To thoſe that are with ſorrow fed.</l>
+                  </q>
+               </p>
+               <p>This is not onely requiſte for pleaſure ſake, but chiefly for generation. For ſad or weeping women cannot conceive. Experience tels us that Virgins raviſhed are never with child; or on the other ſide, if ſhe be poſſeſt with too much joy. So that it plainly appears the mind muſt then be equally poiſed, which is abſolutely conducible to the begetting a fair well propor<g ref="char:EOLhyphen"/>tioned and wiſe off-ſpring. Learned men, whoſe minds are continually prepoſſeſt with cares, ſtudy, and meditation, ſeldome beget wiſe children, but are for the moſt part fools
+<pb n="63" facs="tcp:171523:48"/>and naturals. Moreover, the mind muſt caſt off all idle phantaſmes: for the force of imagina<g ref="char:EOLhyphen"/>tion is wonderfully powerful, &amp; can ſo alter the ſeed, as to change it into what form it liſteth. <hi>Albertus Magnus</hi> tels a ſtory of a Queen that had the picture of an Ethiopian hung up in her bed-chamber, which being continually in her ſight, and ſo whereever ſhe was ſhe had the idea of it in her fancy. When ſhe was brought to bed, (though her husband and her ſelf were very fair) ſhe was delivered of a black child.</p>
+               <p>No doubt <hi>Jacob</hi> knew ſufficiently the force of imagination, in laying the coloured rods before the ſheep when they were to be leapt by the rams, <hi>Gen. chap.</hi> 30. This is the reaſon that the children of an adultreſs are commonly like her husband, for fearing and ſuſpecting her hus<g ref="char:EOLhyphen"/>band might come and find her acting her vil<g ref="char:EOLhyphen"/>lany, ſhe hath his repreſentation in her ſight, and ſo the child becomes like him, and not the true father.</p>
+            </div>
+            <div type="part">
+               <pb n="64" facs="tcp:171523:49"/>
+               <head>Whether to copulate backwards after the manner of beaſts is beſt.</head>
+               <p>THe cauſes of ſterility are many, many of which proceed not from the yard or ſeed, but from an abſonant and incongruous uſe of <hi>Venus.</hi> Although the common way of congreſ<g ref="char:EOLhyphen"/>ſion be more civil and comely, yet its leſs fruit<g ref="char:EOLhyphen"/>ful then that way which nature ſhewed every beaſt. The womb is inflext, and therefore it ſtands to reaſon that the yard ought to be in the like poſture. Hear <hi>Lucretius</hi> his opinion of this:
+<q xml:lang="lat">
+                     <l>— more ferarum</l>
+                     <l>Quadrupedúm<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> magis ritu plerúm<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> putantur</l>
+                     <l>Concipere uxores; quonium loca ſumere poſſunt</l>
+                     <l>Pectoribus poſitis, ſublatis ſemina lumbis.</l>
+                  </q>
+               </p>
+               <p>But enough of this, a thing proper onely for beaſts, altogether unbeſeeming men, but if it muſt, be uſed by any, let them be ſuch as marry onely for luſt.</p>
+            </div>
+            <div type="part">
+               <pb n="65" facs="tcp:171523:49"/>
+               <head>Concerning pendulous venery, us alſo many other phantaſtical ve<g ref="char:EOLhyphen"/>nereal poſtures.</head>
+               <p>
+                  <hi>APuleius</hi> calls that pendulous venery, when the man lies under, and the woman upon him. Theſe are his own words: <hi>Haec dicens inſcenſo grabaulo ſuper me ſenſim ac crebra ſubſi<g ref="char:EOLhyphen"/>liens, lubriciſque geſtibus mobilem ſpinam quati<g ref="char:EOLhyphen"/>ens, pendulae veneris fructu me ſatiavit, uſque dum laſs is animis, et marcidis artubus, ſimul ambo cor<g ref="char:EOLhyphen"/>ruimus.</hi> But as this is prejudiciall to a mans health, ſo likewiſe it is unfit for generation. For by this means the ſeed cannot ſtay within the Womb, it being naturally very ſlippery. Some again copulate ſtanding, which much wearies the man, and hinders conception. Others do it ſitting, but in that geſture there cannot be an apt and cloſe connexion of the members. See more in <hi>Aretines</hi> Poſtures.</p>
+            </div>
+            <div type="part">
+               <pb n="66" facs="tcp:171523:50"/>
+               <head>Whether there are Pigmies, and how they are generated.</head>
+               <p>THat there were and are ſuch creatures, is no fable, nor feigned ſtory. Theſe are men a cu<g ref="char:EOLhyphen"/>bit high in ſtature, as the word πύγαν ſignifies. <hi>Pliny</hi> ſaith, that theſe diminutive men do ride on goats in ſtead of horſes for three moneths to<g ref="char:EOLhyphen"/>gether, ſpoyling and laying waſte all the ha<g ref="char:EOLhyphen"/>bitations (that is the neſts) of the Cranes, with the hope of their future iſſue, that is their eggs. As for their houſes, they are made of dirt, feathers, and egg-ſhels; but <hi>Aristotle</hi> contra<g ref="char:EOLhyphen"/>dicts him, and ſaith, that they live in holes in the earth. But as for their generation, it's no eaſie matter to conjecture. It may be from the paucity of ſeed, but more probable from the ſtreightneſs and narrow capacity of the womb, hindring thereby their increment after con<g ref="char:EOLhyphen"/>ception. In imitation of which ſome dainty La<g ref="char:EOLhyphen"/>dies uſe to incloſe a Puppy within ſome ſmall pot, and ſo the dog grows ſo big as he hath room. Though we cannot juſtly derive their original, yet it's not much to be queſtioned but there are ſuch, otherwiſe ſo many learned men would not write of them ſo much, and to ſo little purpoſe. Amongſt whom <hi>Caelius Rho<g ref="char:EOLhyphen"/>diginus</hi> atteſts he hath ſeen them not much longer then an ell, as you may read it at large in his <hi>Lectiones Antiquae, cap.</hi> 20.</p>
+            </div>
+            <div type="part">
+               <pb n="67" facs="tcp:171523:50"/>
+               <head>Whether there were and are Giants, and whence have they their original.</head>
+               <p>BOth ſacred and profane writers confirme, that there were Giants. See what the holy Scripture ſaith of them in <hi>Numbers</hi> 13. <hi>Deutero<g ref="char:EOLhyphen"/>nomy</hi> 3.1 <hi>King. chap.</hi> 17. <hi>Plinie</hi> relates that there was found by reaſon of an earthquake, the body of a man fourty ſix cubits long. <hi>Galleotus Martius</hi> makes mention of a man whoſe name was <hi>Pallas,</hi> killed by <hi>Tyraeus;</hi> his carcaſs was found in <hi>Henry</hi> the thirds time, which ſtanding meaſured the walls of <hi>Rome</hi> in height. <hi>Americus Vesputius</hi> firſt found out a land, which he called the Iſle of Giants, in which the men are ordi<g ref="char:EOLhyphen"/>narily five fathomes long. But how theſe are begotten, and why they appear not in theſe latter dayes, is a difficult thing to find out. <hi>Hip<g ref="char:EOLhyphen"/>pocrates</hi> thinks that the temperature of the air and climate is a great means of immenſe growth. Therefore (he ſaith) it is, that <hi>Aſia</hi> bring forth things fairer and greater then other parts of the world, becauſe there is there ſuch an equal and temperate mixture of the ſeaſons of the year. It's no wonder then if our times are not infeſted with them, ſince we are deſtitute of thoſe things, that in all probability are the cauſe and original of them, <hi>viz.</hi> clemency of the heavens, equality of the ſeaſons, or plenty of humour in their aliment, as alſo ſtrong mu<g ref="char:EOLhyphen"/>tations
+<pb n="68" facs="tcp:171523:51"/>of the air, extraordinary heat or cold, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Of the good and of the bad that comes by Venery.</head>
+               <p>AS there is the heigheſt pleaſure in <hi>Venus,</hi> ſo there is no leſs of profit, when it is injoyed lawfully in wedlock; otherwiſe I renounce my opinion, and eſteem thoſe for mad men that will prefer momentany delights, before thoſe that are eternal. Thats an unworthy commodi<g ref="char:EOLhyphen"/>ty that cannot be bought nor obtained but by the death and deſtruction of the merchant. But to our diſcourſe in hand. <hi>Venus</hi> very much pro<g ref="char:EOLhyphen"/>fits thoſe that are Phlegmatick, and troubled with rheumes; its good likewiſe againſt the palſie, nay it is called a petit palſie, becauſe its action reſembles it ſo much. Hence <hi>Fauſtus de Coitu;</hi>
+                  <q xml:lang="lat">Turpis, &amp; eſt morbi species horrenda caduci.</q>
+               </p>
+               <p>But chiefly its profitable to melancholick men; many times by the retention of Virgins and Widows ſeed, they become exceſſively melan<g ref="char:EOLhyphen"/>choly, and in a ſmall time after run ſtark mad. There is no other cure for them but copulation. Congreſſion likewiſe is an excellent remedy to bridle cholerick mens wrath. Wherefore the Po<g ref="char:EOLhyphen"/>ets
+<pb n="69" facs="tcp:171523:51"/>feigned that <hi>Venus</hi> the Goddeſs of Love and venereal ſports conquered <hi>Mars</hi> the God of war. How many valiant men have proved ar<g ref="char:EOLhyphen"/>rant cowards at the firſt ſhot from a beauteous eye, paying tribute unto it, forgetting both their honour and ſafety? <hi>Venus</hi> again is very good for hot and moiſt conſtitutions; nay it is altogether neceſſary. For this complexion a<g ref="char:EOLhyphen"/>boundeth much with bloud and ſeed, whereby the ſpermatical veſſels are filled and oppreſt; ſo that if they are not disburdened, they are ſo over-much extended that thereby proceeds from it a gonorrhoea; or if the ſeed be a long while detained, the ſeminal paſſages will be obſtructed; hence ariſeth putrefaction, ſemi<g ref="char:EOLhyphen"/>nal feavours, and there often wormes breed: So ſaith <hi>Mercurialis.</hi> Copulation giveth men a ſoft skin, it cureth the Iskurie or difficult ma<g ref="char:EOLhyphen"/>king water. But you muſt underſtand that theſe benefits come not but by a moderate uſe there<g ref="char:EOLhyphen"/>of. Now let us proceed to the ills that <hi>Venus</hi> brings with it, which are ſo many that I ſtand in need of more then one tongue to relate them. Hear how <hi>Ariſtotle</hi> exhorts <hi>Alexander,</hi> ſaying; O <hi>Clement</hi> Emperour, incline thy ſelf not too much to <hi>Venus,</hi> becauſe its a thing moſt proper to brutes! what then is thy glory, if thou makeſt thine actions equal with beaſts? I believe he followed his counſel well; for after he had conquered <hi>Darius,</hi> he behaved himſelf ſo well to his captivated wives and daughters, as became ſo vertuous and magna<g ref="char:EOLhyphen"/>nimous a Conquerer. For, ſaith he, after he had viewed them, its not juſt that he that hath
+<pb n="70" facs="tcp:171523:52"/>conquered ſo many kingdomes, ſhould at laſt be conquered himſelf by a ſilly woman. Be<g ref="char:EOLhyphen"/>lieve me, <hi>Venus</hi> is the deſtruction of the body, the ſhortning of life, the corruption of vertues, the tranſgreſſion of the law of God, and the mother of effeminacy. Here what the Poet ſaith of this beſtial delight:
+<q xml:lang="lat">
+                     <l>O multum damnoſa viris, damnoſa voluptas!</l>
+                     <l>O nimium damnoſa viris, damnoſa libido!</l>
+                     <l>Damnoſi viſus, damnoſaque baſia, torpor</l>
+                     <l>Damnoſus, damnoſus amor, damnoſaque ſcorta!</l>
+                     <l>O multum damnoſa viris, damnoſa voluptas!</l>
+                  </q>
+               </p>
+               <p>To conclude, it depraves the mind, it wea<g ref="char:EOLhyphen"/>kens the body, it dries up the natural moiſture, and therefore haſtens death.</p>
+               <q xml:lang="lat">
+                  <l>Crebra Venus nervos, animum, vim, lumina, corpus,</l>
+                  <l>Debilitat, mollit, ſurripit, orbat, edit.</l>
+                  <l>
+                     <hi>Venus</hi> mans body, his ſtrength, mind, and eyes,</l>
+                  <l>Makes weak and ſoft, corrupts and putrifies,</l>
+               </q>
+               <p>Laſtly, <hi>Venus</hi> is the original of all diſeaſes, and all miſchiefs that happen in the world. Let us then with all care and diligence ſhun theſe damnable, execrable and ſhort fading pleaſures, ſince they ſeldome have any other end then grief, vexation, ignominy, ſhame, and ſudden deſtruction, and after this life is ended, eter<g ref="char:EOLhyphen"/>nall damnation.</p>
+            </div>
+            <div type="part">
+               <pb n="71" facs="tcp:171523:52"/>
+               <head>Why are young men the more delight<g ref="char:EOLhyphen"/>ed in Venery, by how much the more they uſe it.</head>
+               <p>IF we dare credit <hi>Hippocrates,</hi> he is ready to ſatisfie us in this queſtion. For (ſaith he) often copulation inlarges the veines, and di<g ref="char:EOLhyphen"/>lates very much the ſeedy veſſels; by reaſon of which there is a larger and freer paſſage and receptacle for a greater quantity of ſeed and ſpirits, whereby venereal delight and pleaſure is prolonged and increaſed in the act. At firſt moſt youths have theſe paſſages very ſtreight and narrow, ſo as the ſeed can hardly be evacuated; but by uſe they become enlar<g ref="char:EOLhyphen"/>ged, immediately after which nature is ſo pro<g ref="char:EOLhyphen"/>vident as to fill theſe domicils of luſt (thus in<g ref="char:EOLhyphen"/>abled) with a great quantity of bloud, ſpirits and heat. There being then a ſufficient plenty of theſe three, they cannot otherwiſe chuſe but cauſe a great inclination to luſt with a pruriting and itching quality; and laſtly adminiſter the greateſt of pleaſures in the act. This is natures property, that where ſhe is ſent for, thither ſhe flies with all expedition to be an aſſiſtant. Where grief or pleaſure is, there ſhe takes up her reſiſtance, to aggravate the one or aug<g ref="char:EOLhyphen"/>ment the other. Thus ſhe deals with youth, when the receptacles of bloud and ſpirits are amplified, thither ſhe immediately ſends great quantity of them to fill thoſe veſſels, though
+<pb n="72" facs="tcp:171523:53"/>for it ſhe leaves deſtitute the other parts. And ſo by this means copulation very much wea<g ref="char:EOLhyphen"/>kens the whole ſtructure of the body. Hence it proceeds that that man is never fleſhy or fat that begins too ſoon to be petulant and act wantonly. But why ſhould not middle-aged men partake of the ſame priviledge that young men do in the exceſs of venereal delight? The reaſon may be that though they have their ſe<g ref="char:EOLhyphen"/>minal veſſels extended to the ſame, nay grea<g ref="char:EOLhyphen"/>ter meaſure, yet they have not the ſame plen<g ref="char:EOLhyphen"/>ty of ſeed and alimentary humour. Hence it falls out, that as they cannot copulate often, ſo is their deſire and appetite that way deficient. Its no wonder then if women are ſo politick and cunning in preferring youth before any other age, to adminiſter to them venereal cordials and electuaries. Add to this, if the ſeminal con<g ref="char:EOLhyphen"/>duits of young men are obſtructed, their ſeed becomes like a torrent, the more fervent and impetuous by the obſtacle, and ſo being looſen<g ref="char:EOLhyphen"/>ed flows with greater force and quantity, and conſequently affords a more intenſe ſenſe of pleaſure. Therefore <hi>Plato</hi> forbad not onely any thing that might inflame youthful natures, but in eſpecial manner wine; for by drinking it, (ſaith he) they add fire to fire. Thus <hi>Ovid</hi> ex<g ref="char:EOLhyphen"/>preſſeth himſelf in his Art of Loving, concern<g ref="char:EOLhyphen"/>ing a woman:
+<q xml:lang="lat">
+                     <l>Turpe jacens mulier multo madefacta Lyaeo,</l>
+                     <l>Digna eſt concubitus quoſlibet illa pati.</l>
+                  </q>
+                  <q>
+                     <l>O haſe! a woman ſop'd and ſteep'd in wine,</l>
+                     <l>In lust her armes is willing to intwine.</l>
+                  </q>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:171523:53"/>
+            <head>The INDEX of the ſeve<g ref="char:EOLhyphen"/>ral ſubjects contained in this Book.</head>
+            <list>
+               <item>Concerning the name of <hi>Venus pag. 1.</hi>
+               </item>
+               <item>What is copulation? <hi>p. 3.</hi>
+               </item>
+               <item>What is venereal Love? <hi>p. 4.</hi>
+               </item>
+               <item>Through what part is love at firſt re<g ref="char:EOLhyphen"/>ceived in? <hi>p. 5.</hi>
+               </item>
+               <item>Who are they which are moſt apt to be in love? <hi>p. 6.</hi>
+               </item>
+               <item>Concerning thoſe things that increaſe love. <hi>p. 9.</hi>
+               </item>
+               <item>Whether love may be cured by medi<g ref="char:EOLhyphen"/>caments? <hi>p. 10.</hi>
+               </item>
+               <item>Concerning love-potions, or Philters. <hi>p. 11.</hi>
+               </item>
+               <pb facs="tcp:171523:54"/>
+               <item>Whether females may change their ſex. <hi>p. 12.</hi>
+               </item>
+               <item>Which is moſt luſtful a man or a beaſt? <hi>p. 13.</hi>
+               </item>
+               <item>Which of the two is moſt luſtful, a man or a woman? <hi>p. 15.</hi>
+               </item>
+               <item>Which is moſt luſtful a woman or a maid? <hi>p. 17.</hi>
+               </item>
+               <item>The ſigns and marks of luſtfulneſs from a mans temperament, age, diſ<g ref="char:EOLhyphen"/>poſition of body, and his Countrey. <hi>p. 18, 19, 20, 21.</hi>
+               </item>
+               <item>The ſigns of luſtfulneſs from the ſta<g ref="char:EOLhyphen"/>ture, colour, conformation of the parts, beauty, ſtrength, and ſeaſon of the year. <hi>p. 21, 22, 23.</hi>
+               </item>
+               <item>The ſigns of luſtfulneſs from diſeaſes. <hi>p. 23, 24, 25.</hi>
+               </item>
+               <item>Concerning Satyriaſis. <hi>p. 25.</hi>
+               </item>
+               <item>Phyſiognomical ſigns of luſt. <hi>p. 26, 27, 28, 29, 30.</hi>
+               </item>
+               <item>Examples of ſuch men and women that have been very luſtful and le<g ref="char:EOLhyphen"/>cherous.
+<pb facs="tcp:171523:54"/>
+                  <hi>p. 30, 31, 32, 33, 34.</hi>
+               </item>
+               <item>At what age is a wife to be choſen, that ſhe may be fit for generation. <hi>p. 35, 36.</hi>
+               </item>
+               <item>Concerning a mans Genitals, and of their apt conformation. <hi>p. 37.</hi>
+               </item>
+               <item>From whence proceeds the erection of the yard? <hi>p. 39.</hi>
+               </item>
+               <item>Whether a too long or a too ſhort Yard be obnoxious to generation. <hi>p. 40.</hi>
+               </item>
+               <item>How to inlarge the pudenda (in caſe it be neither long, nor thick enough) to a due proportion. <hi>p. 41.</hi>
+               </item>
+               <item>How to ſhorten the yard being too long. <hi>p. 42.</hi>
+               </item>
+               <item>Of venereal impotency. <hi>p. 43.</hi>
+               </item>
+               <item>Concerning ſome men that have had wonderful great Genitals. <hi>p. 44.</hi>
+               </item>
+               <item>Some queſtions concerning the Puden<g ref="char:EOLhyphen"/>da. <hi>p. 45.</hi>
+               </item>
+               <item>Concerning the excellency, vertue and temper of the ſtones. <hi>p. 46.</hi>
+               </item>
+               <item>What may be the reaſon that though a
+<pb facs="tcp:171523:55"/>man loveth a woman very well, yet after the injoyment of her his love grows cold. <hi>p. 48.</hi>
+               </item>
+               <item>Concerning caſtrating Men and Wo<g ref="char:EOLhyphen"/>men. <hi>p. 50.</hi>
+               </item>
+               <item>A particular relation of ſuch things as will increaſe ſeed and luſt. <hi>p. 61.</hi>
+               </item>
+               <item>A brief deſcription of a Womans Ge<g ref="char:EOLhyphen"/>nitalls. <hi>p. 53.</hi>
+               </item>
+               <item>Concerning the Clytoris. <hi>p. 55.</hi>
+               </item>
+               <item>How to contract the Vulva being too large and wide. <hi>ibid.</hi>
+               </item>
+               <item>What is that which is infringed at the firſt venereal act; as alſo ſome ſigns of Virginity. <hi>p. 57.</hi>
+               </item>
+               <item>Whether there be any Signs of cor<g ref="char:EOLhyphen"/>rupted virginity. <hi>p. 59.</hi>
+               </item>
+               <item>Concerning night-pollutions. <hi>p. 61.</hi>
+               </item>
+               <item>He that intends copulation, ought to be free from turbulent paſsions of the mind, and vain phantaſmes. <hi>p. 62.</hi>
+               </item>
+               <item>Whether to copulate backwards after
+<pb facs="tcp:171523:55"/>the manner of beaſts is beſt. <hi>p. 64.</hi>
+               </item>
+               <item>Concerning pendulous venery, as alſo many other fantaſtical venereal poſtures. <hi>p. 65.</hi>
+               </item>
+               <item>Whether there are Pigmies, and how they are generated? <hi>p. 66.</hi>
+               </item>
+               <item>Whether there were and are Giants, and whence have they their origi<g ref="char:EOLhyphen"/>nal? <hi>p. 67.</hi>
+               </item>
+               <item>Of the good and of the bad that comes by venery. <hi>p. 68.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171523:56"/>
+            <pb facs="tcp:171523:56"/>
+            <pb facs="tcp:171523:57"/>
+            <pb facs="tcp:171523:57"/>
+            <pb facs="tcp:171523:58"/>
+            <pb facs="tcp:171523:58"/>
+         </div>
+      </back>
+   </text>
+</TEI>
